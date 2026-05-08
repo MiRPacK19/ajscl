@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=uTqwoySyHeM",
             "percent": 100,
             "hz": "CBF"
+        },
+        {
+           "user": "G1rcy",   
+           "link": "https://www.youtube.com/shorts/BPy3VcvP0cQ",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
