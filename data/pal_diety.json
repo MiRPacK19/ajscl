@@ -9,5 +9,11 @@
     "handcam": "Required",
     "fps": "100",
     "records": [
+        {
+           "user": "JustAnUnknown",   
+           "link": "",     
+           "hz": "100",     
+           "percent": 100
+        }
        ]
 }
