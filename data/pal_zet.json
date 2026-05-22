@@ -1,0 +1,19 @@
+{
+    "id": 140718799,
+    "name": "Pal Zet",
+    "author": "vny8",
+    "creators": [],
+    "verifier": "F1erzza",
+    "verification": "https://www.youtube.com/watch?v=wlDmPSZhUME",
+    "percentToQualify": "100",
+    "handcam": "Required",
+    "fps": "CBF",
+    "records": [
+        {
+           "user": "vny8",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        }
+    ]
+}
