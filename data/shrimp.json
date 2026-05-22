@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+           "user": "Liknod",   
+           "link": "https://www.youtube.com/watch?v=_lVpRw4YsIY",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
