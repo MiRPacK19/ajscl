@@ -1,0 +1,19 @@
+{
+    "id": 137824801,
+    "name": "Spam of all time",
+    "author": "RedBeryl",
+    "creators": [],
+    "verifier": "G1rcy",
+    "verification": "https://www.youtube.com/shorts/WK095Zxp2zs",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "AngoPR",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
