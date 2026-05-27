@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "delgado_yeet_404",
+            "link": "https://youtu.be/fAqarjkqZ8M",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
