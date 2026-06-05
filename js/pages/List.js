@@ -58,10 +58,6 @@ export default {
                             <div class="type-title-sm">Handcam</div>
                             <p>{{ level.handcam || 'Not Required' }}</p>
                         </li>
-                        <li>
-                            <div class="type-title-sm">Type</div>
-                            <p>{{ level.type || 'wip' }}</p>
-                        </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
