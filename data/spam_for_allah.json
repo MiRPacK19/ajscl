@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "240/360",
     "records": [
+        {
+           "user": "G1rcy",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
