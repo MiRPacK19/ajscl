@@ -134,6 +134,12 @@
            "link": "",     
            "hz": "CBF",     
            "percent": 100
+        },
+        {
+           "user": "JDH",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
