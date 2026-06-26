@@ -38,6 +38,12 @@
             "link": "",
             "percent": 100,
             "hz": "100"
+        },
+        {
+           "user": "S1rnikgmd",   
+           "link": "",     
+           "hz": "100",     
+           "percent": 100
         }
     ]
 }
