@@ -26,6 +26,12 @@
            "link": "",     
            "hz": "CBF",     
            "percent": 100
+        },
+        {
+           "user": "S1rnikgmd",   
+           "link": "",     
+           "hz": "93",     
+           "percent": 100
         }
     ]
 }
