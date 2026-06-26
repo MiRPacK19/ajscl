@@ -152,6 +152,12 @@
            "link": "",     
            "hz": "CBF",     
            "percent": 100
+        },
+        {
+           "user": "flim",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
