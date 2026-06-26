@@ -13,7 +13,13 @@
             "user": "G1rcy",
             "link": "https://www.youtube.com/watch?v=CrNgkVyHi0w",
             "percent": 100,
-            "hz": "CBF"
+            "hz": "200"
+        },
+        {
+           "user": "shafikdabest",   
+           "link": "",     
+           "hz": "200",     
+           "percent": 100
         }
     ]
 }
