@@ -39,5 +39,11 @@
            "hz": "CBF",     
            "percent": 100
         },
+        {
+            "user": "LightningGD",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
