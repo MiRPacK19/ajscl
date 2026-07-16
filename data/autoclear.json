@@ -9,5 +9,23 @@
     "handcam": "Not Required",
     "fps": "60",
     "records": [
+        {
+           "user": "helomomy",   
+           "link": "",     
+           "hz": "60",     
+           "percent": 100
+        },
+        {
+           "user": "Liknod",   
+           "link": "",     
+           "hz": "60",     
+           "percent": 100
+        },
+        {
+           "user": "Lololowka",   
+           "link": "",     
+           "hz": "60",     
+           "percent": 100
+        }
     ]
 }
