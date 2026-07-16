@@ -63,6 +63,12 @@
            "link": "",     
            "hz": "CBF",     
            "percent": 100
+        },
+        {
+           "user": "Lunar",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
