@@ -20,6 +20,12 @@
             "link": "",
             "percent": 100,
             "hz": "60"
+        },
+        {
+           "user": "Lololowka",   
+           "link": "",     
+           "hz": "60",     
+           "percent": 100
         }
     ]
 }
