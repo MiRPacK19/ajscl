@@ -68,6 +68,12 @@
            "link": "",     
            "hz": "CBF",     
            "percent": 100
+        },
+        {
+           "user": "tFluffy",   
+           "link": "",     
+           "hz": "100",     
+           "percent": 100
         }
     ]
 }
