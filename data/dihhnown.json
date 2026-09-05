@@ -62,6 +62,12 @@
             "link": "",
             "percent": 100,
             "hz": "CBF"
+        },
+        {
+           "user": "Aut0Plays",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
