@@ -1,4 +1,4 @@
-{
+    {
     "id": 116170315,
     "name": "Inst Adam Clear",
     "author": "JeDoesStuff",
@@ -30,6 +30,12 @@
         {
            "user": "LucaGMD",   
            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1504963512039116923",     
+           "hz": "102",     
+           "percent": 100
+        },
+        {
+           "user": "S1rnikgmd",   
+           "link": "",     
            "hz": "102",     
            "percent": 100
         }
