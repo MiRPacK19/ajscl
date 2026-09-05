@@ -44,6 +44,12 @@
             "link": "",
             "percent": 100,
             "hz": "CBF"
+        },
+        {
+           "user": "tFluffy",   
+           "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1541026878960173146/ajscl_comp.mp4?ex=6a9de4de&is=6a9c935e&hm=2b489a1cd92981fb9d237744cac1983f2457f0f50b60ea5eb8e908163b91a0f8&",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
