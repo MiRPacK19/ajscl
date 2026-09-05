@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "93",
     "records": [
+        {
+           "user": "Bacon_wazu",   
+           "link": "https://youtu.be/hSxJP3voAk8",     
+           "hz": "93",     
+           "percent": 100
+        }
     ]
 }
