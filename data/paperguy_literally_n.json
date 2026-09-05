@@ -68,6 +68,12 @@
            "link": "",     
            "hz": "60",     
            "percent": 100
+        },
+         {
+           "user": "Aut0Plays",   
+           "link": "",     
+           "hz": "60",     
+           "percent": 100
         }
     ]
 }
