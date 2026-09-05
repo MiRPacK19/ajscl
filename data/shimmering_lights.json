@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "96",
     "records": [
+         {
+           "user": "Aut0Plays",   
+           "link": "",     
+           "hz": "96",     
+           "percent": 100
+        }
     ]
 }
