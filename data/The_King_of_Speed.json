@@ -104,6 +104,12 @@
            "link": "",     
            "hz": "102",     
            "percent": 100
+        },
+        {
+            "user": "AngoPR",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
