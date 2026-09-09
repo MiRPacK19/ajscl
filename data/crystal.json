@@ -9,5 +9,11 @@
     "handcam": "Required",
     "fps": "100",
     "records": [
+        {
+            "user": "Aerubos",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1547313229900816525",
+            "percent": 100,
+            "hz": "100"
+        }
     ]
 }
