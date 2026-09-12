@@ -6,8 +6,8 @@
     "verifier": "Meowpau",
     "verification": "https://www.youtube.com/watch?v=dlsSG5FjOKg",
     "percentToQualify": "100",
-    "fps": "CBF"
-    "handcam": "Required"
+    "fps": "CBF",
+    "handcam": "Required",
     "records": [
     ]
 }
