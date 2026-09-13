@@ -143,6 +143,15 @@
         136383850
     ]
   },
+    {
+    "name": "Sunrise Pack",
+    "color": "#ff2c18",
+    "levels": [
+        123428971,
+        130739917,
+        141631266
+    ]
+  },
   {
     "name": "Clear Pack",
     "color": "#343E40",
