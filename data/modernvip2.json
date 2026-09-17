@@ -74,6 +74,12 @@
             "link": "",
             "percent": 100,
             "hz": "CBF"
+        },
+         {
+           "user": "vny8",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
         }
     ]
 }
