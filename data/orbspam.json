@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+          {
+           "user": "vny8",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
