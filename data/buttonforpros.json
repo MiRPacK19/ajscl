@@ -6,8 +6,8 @@
     "verifier": "tFluffy",
     "verification": "https://youtu.be/k3oQl6t3GMY",
     "percentToQualify": "100",
-    "handcam": "Required",
-    "fps": "CBF",
+    "handcam": "Not Required",
+    "fps": "46.5",
     "records": [
     ]
 }
