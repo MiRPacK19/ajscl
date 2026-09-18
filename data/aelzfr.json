@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "90",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1549288444876820591",
+            "hz": "90",
+            "percent": 100
+        }
     ]
 }
