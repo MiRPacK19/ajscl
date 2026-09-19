@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "54",
     "records": [
+        {
+            "user": "Aut0Plays",
+            "link": "https://youtu.be/XhTXU3TJk7Y",
+            "hz": "54",
+            "percent": 100
+        }
     ]
 }
