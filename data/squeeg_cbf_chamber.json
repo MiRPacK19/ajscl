@@ -12,8 +12,14 @@
         {
             "user": "delgado_yeet_404",
             "link": "https://youtu.be/fAqarjkqZ8M",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "macaca",
+            "link": "https://www.youtube.com/live/tH8TpbVSi-g?t=1123&si=vCAN1-cOAhb5Y2q2",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
