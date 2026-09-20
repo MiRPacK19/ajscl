@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "macaca",
+            "link": "https://www.youtube.com/live/tH8TpbVSi-g?t=1567&si=OdThwox1RteKdh-L",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
