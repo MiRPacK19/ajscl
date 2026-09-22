@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "50",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://www.youtube.com/watch?v=51GHrfKLcAM",
+            "hz": "50",
+            "percent": 100
+        }
     ]
 }
