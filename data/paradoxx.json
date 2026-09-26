@@ -3,17 +3,12 @@
     "name": "Paradoxx",
     "author": "pixelfactorial",
     "creators": [],
-    "verifier": "vny8",
-    "verification": "https://youtu.be/685xMk2hCyM?si=3WtVlB9kWXqb3NfA",
+    "verifier": "Lololowka",
+    "verification": "https://www.youtube.com/watch?v=ZevzVw2mcE4",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "60",
     "records": [
-        {
-           "user": "Lololowka",   
-           "link": "https://discord.com/channels/1268386437116465205/1495824152135860376/1523337394873434212",     
-           "hz": "120",     
-           "percent": 100
-        }
+        
     ]
 }
