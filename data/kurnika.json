@@ -1,19 +1,14 @@
 {
     "id": 135969485,
     "name": "kurnika",
-    "author": "vny8",
+    "author": ".",
     "creators": [],
-    "verifier": "vny8",
-    "verification": "https://youtu.be/gcwkhS3zdkE",
+    "verifier": "Lololowka",
+    "verification": "https://www.youtube.com/watch?v=ITuIxghsal8",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-        {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
-        }
+
     ]
 }
