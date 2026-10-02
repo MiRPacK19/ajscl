@@ -4,32 +4,32 @@
     "author": "Xed01",
     "creators": [],
     "verifier": "Xed",
-    "verification": "https://www.youtube.com/watch/ejo6FMMbv_E",
+    "verification": "https://www.youtube.com/watch?v=ejo6FMMbv_E",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "186",
     "records": [
         {
             "user": "JustAnUnknown",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=ztrcQGmuRpg",
             "percent": 100,
             "hz": "186"
         },
         {
            "user": "shafikdabest",   
-           "link": "",     
+           "link": "https://youtu.be/HkLLTUvWpsY?si=SXLwMuDJEgyQ9RB2&t=21",     
            "hz": "186",     
            "percent": 100
         },
         {
            "user": "tFluffy",   
-           "link": "",     
+           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1546259588171432118",     
            "hz": "186",     
            "percent": 100
         },
          {
            "user": "Aut0Plays",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=WrrS_rLOjnA",     
            "hz": "186",     
            "percent": 100
         }
