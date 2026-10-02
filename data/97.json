@@ -4,20 +4,20 @@
     "author": "Xed01",
     "creators": [],
     "verifier": "Xed",
-    "verification": "https://www.youtube.com/shorts/CYseBZfHwGM",
+    "verification": "https://www.youtube.com/watch?v=CYseBZfHwGM",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "97",
     "records": [
         {
             "user": "JustAnUnknown",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=esUUGTn6X6I",
             "percent": 100,
             "hz": "97"
         },
          {
            "user": "Aut0Plays",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=vt5cT2uLTA4",     
            "hz": "97",     
            "percent": 100
         }
