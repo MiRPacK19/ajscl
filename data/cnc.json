@@ -10,6 +10,12 @@
     "fps": "CBF",
     "records": [
         {
+           "user": "ywuChaos",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
            "user": "grecha",   
            "link": "",     
            "hz": "CBF",     
