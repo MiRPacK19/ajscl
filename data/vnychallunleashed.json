@@ -9,6 +9,11 @@
     "handcam": "Required",
     "fps": "60",
     "records": [
-       
+        {
+           "user": "OmorGD",   
+           "link": "https://youtu.be/pawYBJepgCs?si=z8jSjoZzfm2HN44t&t=6",     
+           "hz": "60",     
+           "percent": 100
+        }
     ]
 }
