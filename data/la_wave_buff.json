@@ -4,17 +4,17 @@
     "author": "LucaGMD",
     "creators": [],
     "verifier": "LucaGMD",
-    "verification": "https://youtu.be/5VsVQdrg9AQ",
+    "verification": "https://www.youtube.com/watch?v=5VsVQdrg9AQ",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
-    {
-        "user": "F1erzza",
-        "link": "",
-        "percent": 100,
-        "hz": "CBF"
-    },
+        {
+            "user": "F1erzza",
+            "link": "https://www.youtube.com/watch?v=aW6_j6q_h4Y",
+            "percent": 100,
+            "hz": "CBF"
+        },
         {
             "user": "rogi",
             "link": "",
@@ -23,7 +23,13 @@
         },
         {
            "user": "Lololowka",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=KfbtTCBRlco",     
+           "hz": "CBF",     
+           "percent": 100
+        }
+        {
+           "user": "JustAnUnknown",   
+           "link": "https://www.youtube.com/watch?v=JD2h4hfLj9w",     
            "hz": "CBF",     
            "percent": 100
         }
