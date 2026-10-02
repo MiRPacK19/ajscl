@@ -4,20 +4,20 @@
     "author": "ywuChaos",
     "creators": [],
     "verifier": "ywuChaos",
-    "verification": "https://youtu.be/ZYYmjG9vETc?is=-efsS9-rNDW_KUUm",
+    "verification": "https://www.youtube.com/watch?v=ZYYmjG9vETc",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "69",
     "records": [
         {
-           "user": "Aut0Plays",   
-           "link": "",     
+           "user": "JustAnUnknown",   
+           "link": "https://youtu.be/t6yPW1XRKQA?si=hfAPOEO8qqy7DQi5&t=26",     
            "hz": "69",     
            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
+           "user": "Aut0Plays",   
+           "link": "https://www.youtube.com/watch?v=ErAAiGTjwAo",     
            "hz": "69",     
            "percent": 100
         }
