@@ -4,14 +4,14 @@
     "author": "JeDoesStuff",
     "creators": [],
     "verifier": "JeDoesStuff",
-    "verification": "https://youtu.be/R2kZZj9fdts?is=j2SRCSYLfJnPgPbl",
+    "verification": "https://www.youtube.com/watch?v=R2kZZj9fdts",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "102",
     "records": [
         {
             "user": "F1erzza",
-            "link": "https://youtu.be/SOF6Rswc1Zc?is=GuSveNiP4Pp9GKxe",
+            "link": "https://www.youtube.com/watch?v=SOF6Rswc1Zc",
             "percent": 100,
             "hz": 102
         },
@@ -23,7 +23,7 @@
         },
         {
            "user": "JustAnUnknown",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=eJBGEA0Queo",     
            "hz": "102",     
            "percent": 100
         },
@@ -35,25 +35,25 @@
         },
         {
            "user": "S1rnikgmd",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=X-ao0RmHa9g",     
            "hz": "102",     
            "percent": 100
         },
         {
            "user": "Aut0Plays",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=CAmDePznKQc",     
            "hz": "102",     
            "percent": 100
         },
         {
            "user": "Aerubos",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=W7kRoAN4pBI",     
            "hz": "102",     
            "percent": 100
         },
         {
            "user": "Bacon_wazu",   
-           "link": "https://youtu.be/xNAGfi1b0WM",     
+           "link": "https://www.youtube.com/watch?v=xNAGfi1b0WM",     
            "hz": "102",     
            "percent": 100
         }
