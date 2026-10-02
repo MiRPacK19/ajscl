@@ -4,14 +4,20 @@
     "author": "TheBridgerMCc",
     "creators": [],
     "verifier": "Lunar",
-    "verification": "https://youtu.be/qEI9Sqr8zzg?si=ibNQYrCLpBGi-I-Y",
+    "verification": "https://www.youtube.com/watch?v=qEI9Sqr8zzg",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
            "user": "Liknod",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=SdEVwSqAkRo",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Aut0Plays",   
+           "link": "https://www.youtube.com/watch?v=AXx3ukjo7Us",     
            "hz": "CBF",     
            "percent": 100
         }
