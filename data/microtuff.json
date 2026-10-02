@@ -4,7 +4,7 @@
     "author": "AngoPR",
     "creators": ["AngoPR"],
     "verifier": "rogi",
-    "verification": "https://youtu.be/4ov_U1wrdns",
+    "verification": "https://www.youtube.com/watch?v=4ov_U1wrdns",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "60",
@@ -17,13 +17,19 @@
         },
         {
            "user": "Lololowka",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=VmxRuWadB50",     
            "hz": "60",     
            "percent": 100
         },
         {
            "user": "G1rcy",   
-           "link": "",     
+           "link": "https://youtu.be/8Bukz2HQ7nc?si=eT1k735jWtFR7D4r&t=13",     
+           "hz": "60",     
+           "percent": 100
+        },
+        {
+           "user": "S1rnikgmd",   
+           "link": "https://www.youtube.com/watch?v=XwvcT9eEPt4",     
            "hz": "60",     
            "percent": 100
         }
