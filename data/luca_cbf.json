@@ -1,23 +1,23 @@
 {
-    "id": 134764987,
+    "id": 149630614,
     "name": "luca easiest (CBF)",
     "author": "LitePack",
     "creators": [],
     "verifier": "GMDMIRROR",
-    "verification": "https://youtube.com/shorts/vJRjgRUcHiA?si=2jFEXk1mTsAaDISV",
+    "verification": "https://www.youtube.com/watch?v=vJRjgRUcHiA",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
             "user": "JustAnUnknown",
-            "link": "",
+            "link": "https://youtu.be/esUUGTn6X6I?si=MdAtGptI82fiM_7U&t=80",
             "percent": 100,
             "hz": "CBF"
         },
         {
            "user": "shafikdabest",   
-           "link": "",     
+           "link": "https://youtu.be/sNzCsGOeodw?si=aX17CT0YMOXgE1Aj&t=53",     
            "hz": "CBF",     
            "percent": 100
         }
