@@ -2,17 +2,17 @@
     {
         "role": "owner",
         "name": "MiRPacK19",
-        "link": "https://youtube.com/@mirpack19?si=xsO8TTOQrrb17jc2"
+        "link": "https://www.youtube.com/@mirpack19"
     },
     {
         "role": "owner",
         "name": "F1erzza",
-        "link": "https://youtube.com/@f1erzza?si=JEOfFZ2nGIRV1T8K"
+        "link": "https://www.youtube.com/@f1erzza"
     },
     {
         "role": "owner",
         "name": "JustAnUnknown",
-        "link": "https://youtube.com/@justanunknown231?si=eTXEI1RJRqEflMqy"
+        "link": "https://www.youtube.com/@justanunknown231"
     },
     {
         "role": "admin",
@@ -22,16 +22,21 @@
     {
         "role": "admin",
         "name": "rogipye",
-        "link": "https://youtube.com/@pyerogi?si=H6dtyaSdHWwWsg7H"
+        "link": "https://www.youtube.com/@pyerogi"
     },
     {
         "role": "admin",
         "name": "ywuChaos",
-        "link": "https://youtube.com/@yowutupchaos?si=F103mP1eRQstCm_g"
+        "link": "https://www.youtube.com/@yowutupchaos"
     },
     {
         "role": "dev",
         "name": "Liknod",
-        "link": "https://youtube.com/@lik-nod?si=nVIWgPpkjdd22tPK"
+        "link": "https://www.youtube.com/@lik-nod"
+    },
+    {
+        "role": "helper",
+        "name": "Aut0Plays",
+        "link": "https://www.youtube.com/@Aut0Plays"
     }
 ]
