@@ -15,10 +15,10 @@
         "link": "https://www.youtube.com/@justanunknown231"
     },
     {
-        "role": "admin",
-        "name": "vny8",
-        "link": "https://www.youtube.com/@vnyy8"
-    },
+        "role": "owner",
+        "name": "Liknod",
+        "link": "https://www.youtube.com/@lik-nod"
+    }
     {
         "role": "admin",
         "name": "rogipye",
@@ -26,13 +26,8 @@
     },
     {
         "role": "admin",
-        "name": "ywuChaos",
-        "link": "https://www.youtube.com/@yowutupchaos"
-    },
-    {
-        "role": "helper",
         "name": "Aut0Plays",
-        "link": "https://www.youtube.com/@Aut0Plays"
+        "link": "https://youtube.com/@aut0plays?si=kVCcPkctkRmoOma2",
     },
     {
         "role": "dev",
