@@ -1,13 +1,25 @@
 {
-    "id": 135601627,
+    "id": 128131157,
     "name": "kataTARTARUS Spam",
     "author": "LucaGEMD",
     "creators": ["ULTRAHAROS", "LucaGMD"],
     "verifier": "LucaGMD",
-    "verification": "https://youtu.be/A6twdY3qdwo?si=QT4hSuoB41OouYMV",
+    "verification": "https://www.youtube.com/watch?v=A6twdY3qdwo",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=Ct-r3acFxUE",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "S1rnikgmd",
+            "link": "https://discord.com/channels/1482610459302559838/1522699522315391211/1547661507750535188",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
