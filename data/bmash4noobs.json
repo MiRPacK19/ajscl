@@ -3,29 +3,11 @@
     "name": "button mash 4 noobz",
     "author": "tFluffy",
     "creators": [],
-    "verifier": "shafikdabest",
-    "verification": "https://youtu.be/M8z_wIF-lgk",
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/hV5Dkll69Wg",
     "percentToQualify": "100",
     "handcam": "Not Required",
-    "fps": "96",
+    "fps": "144",
     "records": [
-         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "96",     
-           "percent": 100
-        },
-        {
-           "user": "tFluffy",   
-           "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1540970710909063198/bm4n96.mp4?ex=6a9db08f&is=6a9c5f0f&hm=5824f805b8017f8d5bdcec3cc9a9a3c8aa9643f0f635bff480b30da2784a3f55&",     
-           "hz": "96",     
-           "percent": 100
-        },
-         {
-           "user": "Aerubos",   
-           "link": "",     
-           "hz": "96",     
-           "percent": 100
-        }
     ]
 }
