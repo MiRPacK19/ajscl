@@ -11,49 +11,49 @@
     "records": [
         {
             "user": "JustAnUnknown",
-            "link": "",
+            "link": "https://youtu.be/esUUGTn6X6I?si=L2FdNZ7naFkogb4l&t=10",
             "percent": 100,
             "hz": "CBF"
         },
-    {
-     "user": "G1rcy",
-     "link": "https://youtu.be/zrPXL96Tpw0e5dcb7f6aaae6c6ee755766c5baeb1710c825&",
-     "hz": "CBF",
-     "percent": 100
-    },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/zrPXL96Tpw0?si=5c73hYs7gGDY2sMM&t=221",
+            "hz": "CBF",
+            "percent": 100
+        },
         {
            "user": "AngoPR",   
-           "link": "https://www.youtube.com/watch?v=-w4xpYLfHIs",     
+           "link": "https://youtu.be/-w4xpYLfHIs?si=gWXxn3KjKJ-SkdJ7&t=63",     
            "hz": "CBF",     
            "percent": 100
         },
         {
            "user": "necrotikk",   
-           "link": "https://www.youtube.com/watch?v=8WyJIeQaln8",     
+           "link": "https://youtu.be/8WyJIeQaln8?si=xHZkPa8t8j1SGznT&t=25",     
            "hz": "CBF",     
            "percent": 100
         },
         {
            "user": "Xed",   
-           "link": "",     
+           "link": "https://medal.tv/games/geometry-dash/clips/mFWQUxPp1939EspbJ",     
            "hz": "CBF",     
            "percent": 100
         },
         {
            "user": "shafikdabest",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=SEQmlnAL4II",     
            "hz": "CBF",     
            "percent": 100
         },
         {
            "user": "grecha",   
-           "link": "https://youtu.be/61G1-jPiqiA?si=p_OGtI6vGiRN8uds",     
+           "link": "https://www.youtube.com/watch?v=61G1-jPiqiA",     
            "hz": "CBF",     
            "percent": 100
         },
         {
            "user": "Aut0Plays",   
-           "link": "",     
+           "link": "https://www.youtube.com/watch?v=6nAP3EzYHhA",     
            "hz": "CBF",     
            "percent": 100
         }
