@@ -4,10 +4,28 @@
     "author": "Aerubos",
     "creators": [],
     "verifier": "Aerubos",
-    "verification": "https://youtu.be/Q_12BOA0_wg",
+    "verification": "https://www.youtube.com/watch?v=Q_12BOA0_wg",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "51",
     "records": [
+        {
+           "user": "tFluffy",   
+           "link": "https://www.youtube.com/watch?v=1X4riWLRDpc",     
+           "hz": "51",     
+           "percent": 100
+        },
+        {
+           "user": "S1rnikgmd",   
+           "link": "https://www.youtube.com/watch?v=R5wjrH_56PM",     
+           "hz": "51",     
+           "percent": 100
+        },
+        {
+           "user": "Aut0Plays",   
+           "link": "https://www.youtube.com/watch?v=J6DP7A10U7I",     
+           "hz": "51",     
+           "percent": 100
+        }
     ]
 }
