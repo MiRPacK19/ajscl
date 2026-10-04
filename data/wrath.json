@@ -4,10 +4,16 @@
     "author": "Aerubos",
     "creators": [],
     "verifier": "Aerubos",
-    "verification": "https://youtu.be/UFPh6Bn5WiE",
+    "verification": "https://www.youtube.com/watch?v=UFPh6Bn5WiE",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+           "user": "Lololowka",
+           "link": "https://youtu.be/gEIvdrvJZDk?si=7Awc9_SJHzV8uxrR&t=23",
+           "hz": "CBF",
+           "percent": 100
+        }
     ]
 }
