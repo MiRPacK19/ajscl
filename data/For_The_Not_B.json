@@ -1,4 +1,3 @@
-
 {
     "id": 132564797,
     "name": "For The Notorious B",
@@ -65,16 +64,10 @@
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
-        },
-        {
-            "user": "macaca",
-            "link": "https://youtu.be/rZgyJDQSd6I",
-            "hz": "CBF",
-            "percent": 100
         }
     ]
 }
