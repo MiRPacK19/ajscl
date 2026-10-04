@@ -9,6 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-          
+        {
+           "user": "Lololowka",
+           "link": "https://www.youtube.com/watch?v=gEIvdrvJZDk",
+           "hz": "CBF",
+           "percent": 100
+        }
     ]
 }
