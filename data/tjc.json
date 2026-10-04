@@ -4,10 +4,16 @@
     "author": "LucaGEMD",
     "creators": [],
     "verifier": "Aerubos",
-    "verification": "https://youtu.be/qmuk3lr2RYk",
+    "verification": "https://www.youtube.com/watch?v=qmuk3lr2RYk",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "104",
     "records": [
-       ]
+        {
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=vGA9LOl2ECA",
+            "hz": "104",
+            "percent": 100
+        }
+    ]
 }
