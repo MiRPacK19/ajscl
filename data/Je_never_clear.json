@@ -10,21 +10,27 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "G1rcy",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Lololowka",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "OmorGD",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "OmorGD",
+           "link": "",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "Bacon_wazu",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         }
     ]
