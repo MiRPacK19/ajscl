@@ -4,16 +4,10 @@
     "author": "JustAnUnknown",
     "creators": [],
     "verifier": "Liknod",
-    "verification": "https://youtu.be/WUQ4SFmWiJI?is=FdrUjCDiaEZbvIel",
+    "verification": "https://www.youtube.com/watch?v=WUQ4SFmWiJI",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
-        {
-            "user": "macaca",
-            "link": "https://youtu.be/aYP9QRKuah8?list=PLRTO686Itmxk",
-            "hz": "CBF",
-            "percent": 100
-        }
-       ]
+    ]
 }
