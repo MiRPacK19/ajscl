@@ -10,39 +10,45 @@
     "fps": "165",
     "records": [
         {
-           "user": "IsntAdam",   
-           "link": "https://www.youtube.com/watch?v=EwrvqVPvRUk",     
-           "hz": "165",     
+           "user": "IsntAdam",
+           "link": "https://www.youtube.com/watch?v=EwrvqVPvRUk",
+           "hz": "165",
            "percent": 100
         },
         {
-           "user": "ywuChaos",   
-           "link": "",     
-           "hz": "165",     
+           "user": "ywuChaos",
+           "link": "",
+           "hz": "165",
            "percent": 100
         },
         {
-           "user": "loooookkk",   
-           "link": "https://youtu.be/Xn9w6JzTRLw?si=FoO-J98HPMEEvJJF&t=26",     
-           "hz": "165",     
+           "user": "loooookkk",
+           "link": "https://youtu.be/Xn9w6JzTRLw?si=FoO-J98HPMEEvJJF&t=26",
+           "hz": "165",
            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "https://www.youtube.com/watch?v=-Ii8mi_dM8Y",     
-           "hz": "165",     
+           "user": "AngoPR",
+           "link": "https://www.youtube.com/watch?v=-Ii8mi_dM8Y",
+           "hz": "165",
            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "https://youtu.be/G8lcNuRrwSA?si=2TCIZFwIjmIkZSvw&t=37",     
-           "hz": "165",     
+           "user": "shafikdabest",
+           "link": "https://youtu.be/G8lcNuRrwSA?si=2TCIZFwIjmIkZSvw&t=37",
+           "hz": "165",
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "https://www.youtube.com/watch?v=56LhWpdAltQ",     
-           "hz": "165",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=56LhWpdAltQ",
+           "hz": "165",
+           "percent": 100
+        },
+        {
+           "user": "Lololowka",
+           "link": "https://youtu.be/gEIvdrvJZDk?si=2IKSJPsJIrArP1Vy&t=53",
+           "hz": "165",
            "percent": 100
         }
     ]
