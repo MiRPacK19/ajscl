@@ -1,24 +1,17 @@
-
 {
     "id": 133721717,
     "name": "For The Big Dihh",
     "author": "Liknod",
     "creators": [],
     "verifier": "Liknod",
-    "verification": "https://youtu.be/Xj4kZqgVkJM?is=EfmG5Kldv-WZ5_pY",
+    "verification": "https://www.youtube.com/watch?v=Xj4kZqgVkJM",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
         {
             "user": "G1rcy",
-            "link": "https://youtu.be/https://www.youtube.com/watch?v=JAgHkj8VcmM",
-            "percent": 100,
-            "hz": "CBF"
-        },
-        {
-            "user": "macaca",
-            "link": "https://youtu.be/ZXrjTyc79MU",
+            "link": "https://www.youtube.com/watch?v=JAgHkj8VcmM",
             "percent": 100,
             "hz": "CBF"
         }
