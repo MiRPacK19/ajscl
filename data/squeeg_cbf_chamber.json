@@ -4,7 +4,7 @@
     "author": "squeeggd",
     "creators": [],
     "verifier": "Liknod",
-    "verification": "https://youtube.com/shorts/Fx3MxEQC7Oc?si=aixlBi0V0Uo0C1cR",
+    "verification": "https://www.youtube.com/watch?v=Fx3MxEQC7Oc",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
@@ -12,12 +12,6 @@
         {
             "user": "delgado_yeet_404",
             "link": "https://youtu.be/fAqarjkqZ8M",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
-            "user": "macaca",
-            "link": "https://www.youtube.com/live/tH8TpbVSi-g?t=1123&si=vCAN1-cOAhb5Y2q2",
             "hz": "CBF",
             "percent": 100
         }
