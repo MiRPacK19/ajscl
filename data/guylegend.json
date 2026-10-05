@@ -10,14 +10,20 @@
     "fps": "54",
     "records": [
         {
-            "user": "Aut0Plays",
-            "link": "https://youtu.be/XhTXU3TJk7Y",
-            "hz": "54",
-            "percent": 100
+           "user": "Aut0Plays",
+           "link": "https://youtu.be/XhTXU3TJk7Y",
+           "hz": "54",
+           "percent": 100
         },
-         {
+        {
            "user": "S1rnikgmd",   
            "link": "",     
+           "hz": "54",     
+           "percent": 100
+        },
+        {
+           "user": "Bacon_wazu",   
+           "link": "https://www.youtube.com/watch?v=sErqFzUHUwA",     
            "hz": "54",     
            "percent": 100
         }
