@@ -9,18 +9,18 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-    {
-       "user": "LightningGD",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
-    {
-       "user": "F1erzza",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
+        {
+           "user": "LightningGD",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "F1erzza",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
         {
            "user": "consstel",   
            "link": "https://youtu.be/iD0B6Ho6E2g?si=GGIiw8YG36WF_15R",     
@@ -52,26 +52,38 @@
            "percent": 100
         },
         {
-          "user": "JustAnUnknown",
-            "link": "https://youtu.be/H6tZ7VfPgUA",
-            "hz": "CBF",
-            "percent": 100
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/H6tZ7VfPgUA",
+           "hz": "CBF",
+           "percent": 100
         },
         {
-            "user": "Aut0Plays",
-            "link": "https://youtu.be/QpYTPqz-a9E",
-            "hz": "CBF",
-            "percent": 100
+           "user": "Aut0Plays",
+           "link": "https://youtu.be/QpYTPqz-a9E",
+           "hz": "CBF",
+           "percent": 100
         },
         {
-            "user": "tFluffy",
-            "link": "https://youtu.be/t-GqlXpsapk",
-            "hz": "CBF",
-            "percent": 100
+           "user": "tFluffy",
+           "link": "https://youtu.be/t-GqlXpsapk",
+           "hz": "CBF",
+           "percent": 100
         },
-         {
+        {
            "user": "S1rnikgmd",   
            "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Soli",   
+           "link": "https://www.youtube.com/watch?v=8ggbUNNoPDk",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Bacon_wazu",   
+           "link": "https://www.youtube.com/watch?v=CYmh0Q85NfM",     
            "hz": "CBF",     
            "percent": 100
         }
