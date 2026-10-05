@@ -1,8 +1,8 @@
 {
     "id": 149630614,
     "name": "luca easiest (CBF)",
-    "author": "LitePack",
-    "creators": [],
+    "author": "Aut0Plays",
+    "creators": ["LitePack", "Aut0Plays"],
     "verifier": "GMDMIRROR",
     "verification": "https://www.youtube.com/watch?v=vJRjgRUcHiA",
     "percentToQualify": "100",
@@ -16,27 +16,27 @@
             "hz": "CBF"
         },
         {
-           "user": "shafikdabest",   
-           "link": "https://youtu.be/sNzCsGOeodw?si=aX17CT0YMOXgE1Aj&t=53",     
-           "hz": "CBF",     
+           "user": "shafikdabest",
+           "link": "https://youtu.be/sNzCsGOeodw?si=aX17CT0YMOXgE1Aj&t=53",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "https://www.youtube.com/watch?v=2FW1f7lscIg",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=2FW1f7lscIg",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "https://youtu.be/mF6eZXQGrnI?si=dCrjlzUli1s3L2V2&t=10",     
-           "hz": "CBF",     
+           "user": "S1rnikgmd",
+           "link": "https://youtu.be/mF6eZXQGrnI?si=dCrjlzUli1s3L2V2&t=10",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1554279633417932913",     
-           "hz": "CBF",     
+           "user": "AngoPR",
+           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1554279633417932913",
+           "hz": "CBF",
            "percent": 100
         }
     ]
