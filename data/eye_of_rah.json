@@ -33,7 +33,7 @@
            "hz": "93",     
            "percent": 100
         },
-         {
+        {
            "user": "Aut0Plays",   
            "link": "",     
            "hz": "93",     
@@ -42,6 +42,12 @@
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1549290420411043890",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "CoffeeChips",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1557051459491725443",
             "hz": "93",
             "percent": 100
         }
