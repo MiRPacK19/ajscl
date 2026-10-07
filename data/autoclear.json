@@ -1,6 +1,6 @@
 {
     "id": 143679959,
-    "name": "Aut0 Cant Clear",
+    "name": "Aut0 cant clear",
     "author": "Aut0Plays",
     "creators": [],
     "verifier": "Aut0Plays",
@@ -39,9 +39,15 @@
            "hz": "60",     
            "percent": 100
         },
-          {
+        {
            "user": "S1rnikgmd",   
            "link": "",     
+           "hz": "60",     
+           "percent": 100
+        },
+        {
+           "user": "Soli",   
+           "link": "https://medal.tv/games/geometry-dash/clips/nFQ7VNkc5fUSJlgBt",     
            "hz": "60",     
            "percent": 100
         }
