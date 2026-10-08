@@ -4,10 +4,16 @@
     "author": "Liknod",
     "creators": [],
     "verifier": "Liknod",
-    "verification": "https://youtu.be/l7ADxR6FbcU?is=kWUTKE3QvJdE0SUT",
+    "verification": "https://www.youtube.com/watch?v=l7ADxR6FbcU",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "macaca",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
