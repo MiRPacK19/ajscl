@@ -1,13 +1,19 @@
 {
     "id": 134980318,
     "name": "toxic waste",
-    "author": "Liknod",
-    "creators": [],
+    "author": "ywuChaos",
+    "creators": ["Liknod"],
     "verifier": "Liknod",
-    "verification": "https://youtu.be/A0Bdwyka5ic?si=a_YMLvOoYtal2m3L&t=343",
+    "verification": "https://youtu.be/A0Bdwyka5ic?si=Q0IX_Y_15AcOopRx&t=343",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "macaca",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
