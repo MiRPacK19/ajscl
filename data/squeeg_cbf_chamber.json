@@ -11,9 +11,15 @@
     "records": [
         {
             "user": "delgado_yeet_404",
-            "link": "https://youtu.be/fAqarjkqZ8M",
+            "link": "https://www.youtube.com/watch?v=fAqarjkqZ8M",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "macaca",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
