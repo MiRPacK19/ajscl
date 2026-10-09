@@ -9,12 +9,18 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-    {
-       "user": "ywuChaos",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
+        {
+           "user": "ywuChaos",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
         {
            "user": "GMDMIRROR",   
            "link": "",     
