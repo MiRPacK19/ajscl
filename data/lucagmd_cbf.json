@@ -1,6 +1,6 @@
 {
     "id": 110489039,
-    "name": "lucagmd challenge",
+    "name": "LucaGMD Challenge",
     "author": "aelzfr",
     "creators": [],
     "verifier": "JustAnUnknown",
@@ -30,6 +30,12 @@
         {
            "user": "S1rnikgmd",   
            "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Aut0Plays",   
+           "link": "https://www.youtube.com/watch?v=CDVD6hempts",     
            "hz": "CBF",     
            "percent": 100
         }
