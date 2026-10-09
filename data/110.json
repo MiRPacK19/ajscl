@@ -9,9 +9,15 @@
     "handcam": "Not Required",
     "fps": "110",
     "records": [
-   {
+        {
             "user": "Lololowka",
             "link": "https://www.youtube.com/watch?v=IevXK1c2NIo",
+            "percent": 100,
+            "hz": "110"
+        },
+        {
+            "user": "Soli",
+            "link": "https://medal.tv/games/geometry-dash/clips/nGBVNgMJknrNI3ODj",
             "percent": 100,
             "hz": "110"
         }
