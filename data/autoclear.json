@@ -4,51 +4,57 @@
     "author": "Aut0Plays",
     "creators": [],
     "verifier": "Aut0Plays",
-    "verification": "https://youtu.be/Zuw-nGhHwX0",
+    "verification": "https://www.youtube.com/watch?v=Zuw-nGhHwX0",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "60",
     "records": [
         {
-           "user": "helomomy",   
-           "link": "",     
-           "hz": "60",     
+           "user": "helomomy",
+           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1523631041951170620",
+           "hz": "60",
            "percent": 100
         },
         {
-           "user": "Liknod",   
-           "link": "",     
-           "hz": "60",     
+           "user": "Liknod",
+           "link": "",
+           "hz": "60",
            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "60",     
+           "user": "Lololowka",
+           "link": "https://www.youtube.com/watch?v=G5wzsx-wwc4",
+           "hz": "60",
            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "60",     
+           "user": "grecha",
+           "link": "https://www.youtube.com/watch?v=737nu9l0OGU",
+           "hz": "60",
            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "60",     
+           "user": "shafikdabest",
+           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1540617067781165097",
+           "hz": "60",
            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "60",     
+           "user": "S1rnikgmd",
+           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1549408784089219212",
+           "hz": "60",
            "percent": 100
         },
         {
-           "user": "Soli",   
-           "link": "https://medal.tv/games/geometry-dash/clips/nFQ7VNkc5fUSJlgBt",     
-           "hz": "60",     
+           "user": "evnado",
+           "link": "https://www.youtube.com/watch?v=2TRw4pd7-Wk",
+           "hz": "60",
+           "percent": 100
+        },
+        {
+           "user": "Soli",
+           "link": "https://medal.tv/games/geometry-dash/clips/nFQ7VNkc5fUSJlgBt",
+           "hz": "60",
            "percent": 100
         }
     ]
