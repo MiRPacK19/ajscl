@@ -64,15 +64,21 @@
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=6UynEy1WhH8",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Aerubos",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aerubos",
+           "link": "",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "Soli",
+           "link": "https://www.youtube.com/watch?v=YqAZfBzT9zA",
+           "hz": "CBF",
            "percent": 100
         }
     ]
