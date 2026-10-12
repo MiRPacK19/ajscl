@@ -10,21 +10,27 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "JustAnUnknown",   
-           "link": "https://youtu.be/cIyC4AvWxKo?si=6nQsJuWKycsiFgZr&t=74",     
-           "hz": "CBF",     
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/cIyC4AvWxKo?si=6nQsJuWKycsiFgZr&t=74",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "https://medal.tv/games/geometry-dash/clips/mRKT2YWP3z50ncXHk",     
-           "hz": "CBF",     
+           "user": "Xed",
+           "link": "https://medal.tv/games/geometry-dash/clips/mRKT2YWP3z50ncXHk",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "https://www.youtube.com/watch?v=pj31HtSLQ20",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=pj31HtSLQ20",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "zen",
+           "link": "https://www.youtube.com/watch?v=OtcwUVrhE0Y",
+           "hz": "CBF",
            "percent": 100
         }
     ]
