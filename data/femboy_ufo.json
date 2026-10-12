@@ -136,9 +136,15 @@
            "percent": 100
         },
         {
-           "user": "zen",   
-           "link": "https://www.youtube.com/watch?v=oPV7yS3R8Uw",     
-           "hz": "CBF",     
+           "user": "zen",
+           "link": "https://www.youtube.com/watch?v=oPV7yS3R8Uw",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "evnado",
+           "link": "https://www.youtube.com/watch?v=garhXvEjJjg",
+           "hz": "CBF",
            "percent": 100
         }
     ]
