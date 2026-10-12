@@ -82,10 +82,10 @@
            "percent": 100
         },
         {
-            "user": "G1rcy",
-            "link": "https://www.youtube.com/watch?v=CrNgkVyHi0w",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "G1rcy",
+           "link": "https://www.youtube.com/watch?v=CrNgkVyHi0w",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
            "user": "grecha",   
@@ -132,6 +132,12 @@
         {
            "user": "tFluffy",   
            "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "zen",   
+           "link": "https://www.youtube.com/watch?v=oPV7yS3R8Uw",     
            "hz": "CBF",     
            "percent": 100
         }
