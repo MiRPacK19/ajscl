@@ -9,12 +9,12 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-    {
-       "user": "MiRPacK19",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
+        {
+           "user": "MiRPacK19",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
         {
            "user": "G1rcy",   
            "link": "",     
@@ -46,27 +46,33 @@
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "flim",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "flim",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Lololowka",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "tFluffy",
+           "link": "",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "evnado",
+           "link": "https://www.youtube.com/shorts/ECt6-FmeDkg",
+           "hz": "CBF",
            "percent": 100
         },
         {
@@ -76,9 +82,9 @@
             "hz": "CBF"
         },
         {
-           "user": "Liknod",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Liknod",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         }
     ]
