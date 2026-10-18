@@ -10,10 +10,16 @@
     "fps": "72",
     "records": [
         {
-           "user": "JustAnUnknown",   
-           "link": "https://www.youtube.com/watch?v=cIyC4AvWxKo",     
-           "hz": "72",     
+           "user": "JustAnUnknown",
+           "link": "https://www.youtube.com/watch?v=cIyC4AvWxKo",
+           "hz": "72",
+           "percent": 100
+        },
+        {
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=33tpriF8IDg",
+           "hz": "72",
            "percent": 100
         }
-       ]
+    ]
 }
