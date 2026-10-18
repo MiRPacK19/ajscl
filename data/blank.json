@@ -10,10 +10,10 @@
     "fps": "200",
     "records": [
         {
-            "user": "G1rcy",
-            "link": "https://youtu.be/CrNgkVyHi0w?si=r6okjtpc4_FbcRe1&t=182",
-            "percent": 100,
-            "hz": "200"
+           "user": "G1rcy",
+           "link": "https://youtu.be/CrNgkVyHi0w?si=r6okjtpc4_FbcRe1&t=182",
+           "percent": 100,
+           "hz": "200"
         },
         {
            "user": "shafikdabest",
@@ -24,6 +24,12 @@
         {
            "user": "Aut0Plays",
            "link": "https://www.youtube.com/watch?v=GkPymiiNy9E",
+           "hz": "200",
+           "percent": 100
+        },
+        {
+           "user": "Aerubos",
+           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1561319894967001218",
            "hz": "200",
            "percent": 100
         }
