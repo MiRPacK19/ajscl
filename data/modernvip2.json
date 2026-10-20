@@ -4,50 +4,50 @@
     "author": "delgado_yeet_404",
     "creators": [],
     "verifier": "delgado_yeet_404",
-    "verification": "https://youtu.be/O9eAiLtCOd8?si=unSXLDqXBONOxg1v",
+    "verification": "https://www.youtube.com/watch?v=O9eAiLtCOd8",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "MiRPacK19",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "MiRPacK19",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "G1rcy",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "grecha",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "shafikdabest",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "S1rnikgmd",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Xed",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
            "user": "Aut0Plays",
-           "link": "",
+           "link": "https://www.youtube.com/watch?v=B-AzbQc5gqM",
            "hz": "CBF",
            "percent": 100
         },
@@ -76,14 +76,20 @@
            "percent": 100
         },
         {
-            "user": "AngoPR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "AngoPR",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
            "user": "Liknod",
            "link": "",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/Ux0axeh3KyM?si=ryUHzjqZOXge8jjp&t=181",
            "hz": "CBF",
            "percent": 100
         }
