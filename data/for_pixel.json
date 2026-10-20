@@ -4,33 +4,39 @@
     "author": "Liknod2",
     "creators": [],
     "verifier": "Liknod",
-    "verification": "https://youtu.be/s-66Q58j5TQ?si=mOS0nZ3PA1woAHbr",
+    "verification": "https://www.youtube.com/watch?v=s-66Q58j5TQ",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "G1rcy",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "shafikdabest",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "AngoPR",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=ICAcSMqCr6A",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/Ux0axeh3KyM?si=0gG3s_cj9JJd8_Mq&t=132",
+           "hz": "CBF",
            "percent": 100
         }
     ]
