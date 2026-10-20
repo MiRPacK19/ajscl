@@ -1,7 +1,7 @@
 {
     "id": 139927126,
     "name": "for the big tink",
-    "author": "angopro777",
+    "author": "angopro77",
     "creators": [],
     "verifier": "AngoPR",
     "verification": "https://www.youtube.com/watch?v=IMBhguTD4kU",
@@ -10,16 +10,22 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "Liknod",
-           "link": "https://youtu.be/SdEVwSqAkRo?si=cFcYocczypni7ck1&t=53",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Liknod",
+            "link": "https://youtu.be/SdEVwSqAkRo?si=cFcYocczypni7ck1&t=53",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "G1rcy",
-           "link": "https://www.youtube.com/watch?v=t-WSFWGZkNc",
-           "hz": "CBF",
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=t-WSFWGZkNc",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/Ux0axeh3KyM?si=dYoFFDIBxCBZBXUf&t=495",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
