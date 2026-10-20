@@ -4,75 +4,81 @@
     "author": "MM9000",
     "creators": [],
     "verifier": "JeDoesStuff",
-    "verification": "https://youtu.be/Ezk-Snm4r60?si=SK9ir2dGJGoFU8Kc",
+    "verification": "https://www.youtube.com/watch?v=Ezk-Snm4r60",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-            "user": "LucaGMD",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "LucaGMD",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
-            "user": "GMDMIRROR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "GMDMIRROR",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
-            "user": "ywuChaos",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "ywuChaos",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
-            "user": "F1erzza",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "F1erzza",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
-           "user": "Liknod",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Liknod",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "https://www.youtube.com/watch?v=VrYLvwPLEqg",     
-           "hz": "CBF",     
+           "user": "G1rcy",
+           "link": "https://www.youtube.com/watch?v=VrYLvwPLEqg",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "shafikdabest",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "S1rnikgmd",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
-        },
-         {
-           "user": "Aut0Plays",   
-           "link": "https://youtu.be/OmtbT35C4X0",     
-           "hz": "CBF",     
+           "user": "Lololowka",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=OmtbT35C4X0",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "tFluffy",
+           "link": "",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/Ux0axeh3KyM?si=MTe0xvoVFAumvKgH&t=350",
+           "hz": "CBF",
            "percent": 100
         }
     ]
