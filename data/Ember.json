@@ -10,51 +10,57 @@
     "fps": "240/360/CBF",
     "records": [
         {
-            "user": "GMDMIRROR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "GMDMIRROR",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
-            "user": "F1erzza",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+           "user": "F1erzza",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
         },
         {
-           "user": "AngoPR",   
-           "link": "https://youtu.be/AxptNIFKULw?si=7FJ2GUm6FUYqes1V",     
-           "hz": "CBF",     
+           "user": "AngoPR",
+           "link": "https://youtu.be/AxptNIFKULw?si=ws29izGVQ4QfF2p_&t=24",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "G1rcy",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "https://medal.tv/games/geometry-dash/clips/mHZd2VuyqtIrPGyBO?invite=cr-MSw1M3AsNDI2OTQ3NzUx",     
-           "hz": "CBF",     
+           "user": "Xed",
+           "link": "https://medal.tv/games/geometry-dash/clips/mHZd2VuyqtIrPGyBO",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "shafikdabest",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=vrjX9-w_YOg",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "tFluffy",
+           "link": "",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/Ux0axeh3KyM?si=4xJMCkJ1VdutPv82&t=365",
+           "hz": "CBF",
            "percent": 100
         }
     ]
