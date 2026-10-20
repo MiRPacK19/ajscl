@@ -10,20 +10,26 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "G1rcy",   
-           "link": "https://youtu.be/AIKIKqQEdtA?si=3v11LQDkOUyaWdk5&t=217",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/AIKIKqQEdtA?si=3v11LQDkOUyaWdk5&t=217",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "https://www.youtube.com/watch?v=8oVohE2rca0",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=8oVohE2rca0",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "S1rnikgmd",
             "link": "https://www.youtube.com/watch?v=kVbSwhrtM4c",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/Ux0axeh3KyM?si=QC-hXQBG0ZA6CTnf&t=398",
             "hz": "CBF",
             "percent": 100
         }
