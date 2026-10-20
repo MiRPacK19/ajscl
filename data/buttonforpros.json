@@ -4,10 +4,16 @@
     "author": "tFluffy",
     "creators": [],
     "verifier": "tFluffy",
-    "verification": "https://youtu.be/k3oQl6t3GMY",
+    "verification": "https://www.youtube.com/watch?v=k3oQl6t3GMY",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "46.5",
     "records": [
+        {
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/Ux0axeh3KyM?si=vc9bI9ic-Cd6bHH7&t=317",
+           "percent": 100,
+           "hz": "46.5"
+        }
     ]
 }
