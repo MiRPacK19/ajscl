@@ -1,20 +1,20 @@
 {
     "id": 129061295,
-    "name": "Sam Family",
+    "name": "sam family",
     "author": "JustAnUnknown",
     "creators": [],
     "verifier": "ywuChaos",
-    "verification": "https://youtu.be/350ycGbjvQM",
+    "verification": "https://www.youtube.com/watch?v=350ycGbjvQM",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-    {
-       "user": "GMDMIRROR",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
+        {
+           "user": "GMDMIRROR",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
         {
            "user": "F1erzza",   
            "link": "",     
@@ -33,52 +33,58 @@
            "hz": "CBF",     
            "percent": 100
         },
-    {
-     "user": "G1rcy",
-     "link": "https://youtu.be/zrPXL96Tpw0e5dcb7f6aaae6c6ee755766c5baeb1710c825&",
-     "hz": "CBF",
-     "percent": 100
-    },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "G1rcy",
+           "link": "https://youtu.be/zrPXL96Tpw0?si=XDgbBPHmaWxyKIhw&t=98",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "delgado_yeet_404",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "shafikdabest",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "delgado_yeet_404",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "grecha",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-            "user": "AngoPR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
-        },
-        {
-           "user": "tFluffy",   
-           "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1540968026541920346/sam_rock_sky.mp4?ex=6a9dae0f&is=6a9c5c8f&hm=b2306e0de0ff6e18f783ecbdfc6ec77a9899ce3342b4569212e3f1fdc7ee8ce7&",     
-           "hz": "CBF",     
+           "user": "Lololowka",
+           "link": "",
+           "hz": "CBF",
            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
+           "user": "AngoPR",
+           "link": "",
+           "percent": 100,
+           "hz": "CBF"
+        },
+        {
+           "user": "tFluffy",
+           "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1540968026541920346/sam_rock_sky.mp4?ex=6a9dae0f&is=6a9c5c8f&hm=b2306e0de0ff6e18f783ecbdfc6ec77a9899ce3342b4569212e3f1fdc7ee8ce7&",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "Aut0Plays",
+           "link": "https://www.youtube.com/watch?v=uf1PYiVqoEQ",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",
+           "link": "https://youtu.be/Ux0axeh3KyM?si=3yoDeprmLXxRZytQ&t=240",
+           "hz": "CBF",
            "percent": 100
         }
     ]
