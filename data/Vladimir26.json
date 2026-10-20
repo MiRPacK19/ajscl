@@ -1,6 +1,6 @@
 {
     "id": 149877655,
-    "name": "Vladimir 26",
+    "name": "VLADIMIR 26",
     "author": "S1rnikgmd",
     "creators": [],
     "verifier": "S1rnikgmd",
@@ -18,6 +18,12 @@
         {
             "user": "Bacon_wazu",
             "link": "https://www.youtube.com/watch?v=tYRGaieRrns",
+            "percent": 100,
+            "hz": 52
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/Ux0axeh3KyM?si=jiCKhfw2RQEmHQ8a&t=409",
             "percent": 100,
             "hz": 52
         }
