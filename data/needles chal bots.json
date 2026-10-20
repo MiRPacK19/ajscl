@@ -1,7 +1,7 @@
 {
     "id": 130413318,
     "name": "needles chal bots",
-    "author": "Liknod2",
+    "author": "Liknod",
     "creators": [],
     "verifier": "GMDMIRROR",
     "verification": "https://www.youtube.com/watch?v=tVdkDy7XCek",
@@ -10,9 +10,15 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",   
-           "link": "https://www.youtube.com/watch?v=T8G4I7K7DiQ",     
-           "hz": "CBF",     
+           "user": "Lololowka",
+           "link": "https://www.youtube.com/watch?v=T8G4I7K7DiQ",
+           "hz": "CBF",
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",
+           "link": "https://www.youtube.com/watch?v=Ux0axeh3KyM",
+           "hz": "CBF",
            "percent": 100
         }
     ]
