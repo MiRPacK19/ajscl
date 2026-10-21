@@ -28,22 +28,28 @@
             "hz": "CBF"
         },
         {
-           "user": "delgado_yeet_404",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "delgado_yeet_404",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=RnfLEXR_jJI",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://youtu.be/tRxyV0Scxqs?si=n2Yvya9qjBuBN1q1&t=72",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
