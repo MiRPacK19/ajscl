@@ -4,46 +4,52 @@
     "author": "JeDoesStuff",
     "creators": [],
     "verifier": "JeDoesStuff",
-    "verification": "https://youtu.be/ihK75-k3D8M?is=QlPzuxCUJFTrK0GE",
+    "verification": "https://www.youtube.com/watch?v=ihK75-k3D8M",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "108",
     "records": [
-    {
-     "user": "F1erzza",
-     "link": "https://media.discordapp.net/attachments/1482642581685928128/1482987327163994173/0306.mp4?ex=69b8f313&is=69b7a193&hm=4298a5a0ec563e345f4f2d313afe5dcb7f6aaae6c6ee755766c5baeb1710c825&",
-     "hz": "108",
-     "percent": 100
-    },
         {
-          "user": "JustAnUnknown",
+            "user": "F1erzza",
+            "link": "https://media.discordapp.net/attachments/1482642581685928128/1482987327163994173/0306.mp4?ex=69b8f313&is=69b7a193&hm=4298a5a0ec563e345f4f2d313afe5dcb7f6aaae6c6ee755766c5baeb1710c825&",
+            "hz": "108",
+            "percent": 100
+        },
+        {
+            "user": "JustAnUnknown",
             "link": "https://youtu.be/7na9-5Au9d0",
             "hz": "108",
             "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "https://youtu.be/cPqYed6n5mw",     
-           "hz": "108",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/cPqYed6n5mw",
+            "hz": "108",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "108",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=NgGuzJm7EAE",
+            "hz": "108",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "108",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "108",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "108",     
-           "percent": 100
+            "user": "grecha",
+            "link": "",
+            "hz": "108",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://youtu.be/c0LfLI_zZ-E?si=WWi5hEIPgleHtmsf&t=36",
+            "hz": "108",
+            "percent": 100
         }
     ]
 }
