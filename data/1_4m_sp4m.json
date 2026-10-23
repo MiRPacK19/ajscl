@@ -10,52 +10,52 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "https://medal.tv/games/geometry-dash/clips/mHZaNgQolkfVO37sf?invite=cr-MSw0YW8sNDI2OTQ3NzUx",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Xed",
+            "link": "https://medal.tv/games/geometry-dash/clips/mHZaNgQolkfVO37sf?invite=cr-MSw0YW8sNDI2OTQ3NzUx",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "https://youtu.be/xze4O3iBHqE?si=HHnqZOtdy6tjSfpM",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "grecha",
+            "link": "https://youtu.be/xze4O3iBHqE?si=HHnqZOtdy6tjSfpM",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Liknod",   
-           "link": "https://www.youtube.com/watch?v=_lVpRw4YsIY",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=_lVpRw4YsIY",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "necrotikk",   
-           "link": "https://youtu.be/v40DU6UIXS8?si=Cvkh2oTmQqjVVeIP",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "necrotikk",
+            "link": "https://youtu.be/v40DU6UIXS8?si=Cvkh2oTmQqjVVeIP",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "delgado_yeet_404",   
-           "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "delgado_yeet_404",
+            "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "flim",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "flim",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "AngoPR",
@@ -63,17 +63,23 @@
             "percent": 100,
             "hz": "CBF"
         },
-         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+        {
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
-           {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=QKTAfbRxnUI",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://youtu.be/c0LfLI_zZ-E?si=D2qowaUrdGjp4WnL&t=9",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
