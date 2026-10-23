@@ -10,52 +10,58 @@
     "fps": "60",
     "records": [
         {
-           "user": "helomomy",
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1523631041951170620",
-           "hz": "60",
-           "percent": 100
+            "user": "helomomy",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1523631041951170620",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Liknod",
-           "link": "",
-           "hz": "60",
-           "percent": 100
+            "user": "Liknod",
+            "link": "",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Lololowka",
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1523999843117306067",
-           "hz": "60",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1523999843117306067",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "grecha",
-           "link": "https://www.youtube.com/watch?v=737nu9l0OGU",
-           "hz": "60",
-           "percent": 100
+            "user": "grecha",
+            "link": "https://www.youtube.com/watch?v=737nu9l0OGU",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1540617067781165097",
-           "hz": "60",
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1540617067781165097",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1549408784089219212",
-           "hz": "60",
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1549408784089219212",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "evnado",
-           "link": "https://www.youtube.com/watch?v=2TRw4pd7-Wk",
-           "hz": "60",
-           "percent": 100
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=2TRw4pd7-Wk",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Soli",
-           "link": "https://medal.tv/games/geometry-dash/clips/nFQ7VNkc5fUSJlgBt",
-           "hz": "60",
-           "percent": 100
+            "user": "Soli",
+            "link": "https://medal.tv/games/geometry-dash/clips/nFQ7VNkc5fUSJlgBt",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
