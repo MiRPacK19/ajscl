@@ -1,5 +1,5 @@
 {
-    "id": 129609135,
+    "id": "GMD File",
     "name": "inst adam peepe",
     "author": "squeeggd",
     "creators": [],
@@ -10,10 +10,10 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "delgado_yeet_404",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "delgado_yeet_404",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
