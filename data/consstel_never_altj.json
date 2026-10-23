@@ -1,6 +1,6 @@
 {
     "id": 139048156,
-    "name": "consstel never altj",
+    "name": "Consstel never altj",
     "author": "zVixxqq",
     "creators": [],
     "verifier": "consstel",
@@ -12,38 +12,38 @@
         {
             "user": "LightningGD",
             "link": "https://www.youtube.com/watch?v=0dWwoCKhCnU",
-            "percent": 100,
-            "hz": "60"
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Lololowka",
-           "link": "https://www.youtube.com/watch?v=1l-FnU63n5Q",
-           "hz": "60",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=1l-FnU63n5Q",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "G1rcy",
-           "link": "https://www.youtube.com/watch?v=8Bukz2HQ7nc",
-           "hz": "60",
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=8Bukz2HQ7nc",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",
-           "link": "https://youtu.be/uF14Rqt7w64?si=jf8WvaTwVQB2qO3p&t=32",
-           "hz": "60",
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://youtu.be/uF14Rqt7w64?si=jf8WvaTwVQB2qO3p&t=32",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "OmorGD",
-           "link": "https://www.youtube.com/watch?v=pawYBJepgCs",
-           "hz": "60",
-           "percent": 100
+            "user": "OmorGD",
+            "link": "https://www.youtube.com/watch?v=pawYBJepgCs",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Soli",
-           "link": "https://medal.tv/games/geometry-dash/clips/nHspJELomtm_fzulz",
-           "hz": "60",
-           "percent": 100
+            "user": "Soli",
+            "link": "https://medal.tv/games/geometry-dash/clips/nHspJELomtm_fzulz",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
