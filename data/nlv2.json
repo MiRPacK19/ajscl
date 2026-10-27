@@ -1,7 +1,7 @@
 {
     "id": 130739917,
-    "name": "No lieee v2",
-    "author": "zLiknod",
+    "name": "No Lieee v2",
+    "author": "itzgloosy",
     "creators": ["itzgloosy", "Liknod"],
     "verifier": "F1erzza",
     "verification": "https://www.youtube.com/watch?v=EZN0VY5Tlgo",
@@ -9,23 +9,29 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-    {
-       "user": "LightningGD",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "LightningGD",
+            "link": "https://www.youtube.com/watch?v=iWnOr_9lATk",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/AIKIKqQEdtA?si=_stmHgwg0zcR8bjg&t=169",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=QURJbtEAQNA",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://youtu.be/TZYRhR73_FM?si=YX4-e6id0NUn7JA5&t=53",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
