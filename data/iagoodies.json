@@ -1,31 +1,37 @@
 {
     "id": 141506963,
-    "name": "Isnt Adam Goodies",
+    "name": "inst adam goodies",
     "author": "delgado_yeet_404",
     "creators": [],
     "verifier": "delgado_yeet_404",
-    "verification": "https://youtu.be/O9eAiLtCOd8?si=unSXLDqXBONOxg1v",
+    "verification": "https://www.youtube.com/watch?v=O9eAiLtCOd8",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://youtu.be/TZYRhR73_FM?si=JVUEccAHmlL7S9mV&t=30",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
