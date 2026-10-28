@@ -6,32 +6,32 @@
     "verifier": "LightningGD",
     "verification": "https://www.youtube.com/watch?v=BA48bXxBQIc",
     "percentToQualify": "100",
-    "handcam": "Not Required",
+    "handcam": "Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "G1rcy",
-           "link": "https://youtu.be/AIKIKqQEdtA?si=3HgjsAStHowLV3Li&t=36",
-           "hz": "CBF",
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/AIKIKqQEdtA?si=3HgjsAStHowLV3Li&t=36",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",
-           "link": "https://www.youtube.com/watch?v=UgflUyznUhM",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=UgflUyznUhM",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "OmorGD",
-           "link": "https://www.youtube.com/watch?v=bkAwZS3Dq04",
-           "hz": "CBF",
-           "percent": 100
+            "user": "OmorGD",
+            "link": "https://www.youtube.com/watch?v=bkAwZS3Dq04",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Bacon_wazu",
-           "link": "https://www.youtube.com/watch?v=I0VUwioSz1g",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=I0VUwioSz1g",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
