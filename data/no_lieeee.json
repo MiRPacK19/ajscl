@@ -9,149 +9,149 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
-    {
-       "user": "loooookkk",   
-       "link": "",     
-       "hz": "CBF",     
-       "percent": 100
-    },
         {
-           "user": "ywuChaos",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "loooookkk",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "GMDMIRROR",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "ywuChaos",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Frozix",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "GMDMIRROR",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Frozix",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "F1erzza",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "LightningGD",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "F1erzza",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "LightningGD",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "2OO3",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Xed",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "helomomy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "2OO3",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "rogi",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "helomomy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "MiRPacK19",   
-           "link": "https://youtu.be/u_gUJVslv8o",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "rogi",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Liknod",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "MiRPacK19",
+            "link": "https://youtu.be/u_gUJVslv8o",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "MiRPacK19",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Liknod",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "necrotikk",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "necrotikk",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "https://youtu.be/-Ii8mi_dM8Y?feature=shared",     
-           "hz": "CBF",     
-           "percent": 100
-        },
-    {
-     "user": "G1rcy",
-     "link": "https://youtu.be/zrPXL96Tpw0e5dcb7f6aaae6c6ee755766c5baeb1710c825&",
-     "hz": "CBF",
-     "percent": 100
-    },
-        {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "AngoPR",
+            "link": "https://youtu.be/-Ii8mi_dM8Y?feature=shared",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lunar",   
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1507276414905225236",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/zrPXL96Tpw0e5dcb7f6aaae6c6ee755766c5baeb1710c825&",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "https://youtu.be/hc9NoYVA9iE?si=gYlLcxJFIlN1blIV",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "flim",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lunar",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1507276414905225236",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "grecha",
+            "link": "https://youtu.be/hc9NoYVA9iE?si=gYlLcxJFIlN1blIV",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "flim",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=B3BRojHoAzk",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=Hnujs6cVBw4",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
