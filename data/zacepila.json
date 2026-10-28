@@ -6,20 +6,20 @@
     "verifier": "G1rcy",
     "verification": "https://www.youtube.com/watch?v=AIKIKqQEdtA",
     "percentToQualify": "100",
-    "handcam": "Required",
+    "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",   
-           "link": "https://www.youtube.com/watch?v=2tkANWauaWA",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=2tkANWauaWA",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Bacon_wazu",   
-           "link": "https://www.youtube.com/watch?v=_vnM804QU6A",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=_vnM804QU6A",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
