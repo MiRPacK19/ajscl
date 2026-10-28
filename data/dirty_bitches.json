@@ -6,7 +6,7 @@
     "verifier": "JustAnUnknown",
     "verification": "https://youtu.be/eHMtkLXXKi4",
     "percentToQualify": "100",
-    "handcam": "Not Required",
+    "handcam": "Required",
     "fps": "93",
     "records": [
     ]
