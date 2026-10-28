@@ -107,25 +107,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Almost all the difficulty of the level must come from the spam part - however, you are allowed to put a timing/frame perfect at the end or beginning.
+                        Almost all the difficulty of the level must come from the spam part - However, you're allowed to put a timing/frame perfect at the end or beginning.
                     </p>
                     <p>
                         A maximum of 2 inputs is allowed.
                     </p>
                     <p>
-                        All original verifications and completions must be done using alterjitter. See all alterjitter methods in #altjitter_methods in our discord server. (This means Command Prompt and some other very high cps levels like Spam Deity are not allowed)
+                        All original verifications and completions must be done using alterjitter. See all alterjitter methods in #altjitter-methods in our discord server. (This means Command Prompt and some other very high cps levels like Spam Deity are not allowed)
                     </p>
                     <p>
                         The lowest respawn time is 0.5 seconds. (Turn on Enable Fast Reset in game settings)
                     </p>
                     <p>
-                        All the records and verification must be on uncapped devices. Check <a href="https://clickspeedtester.com/keyboard-latency-test/" target="_blank">this</a> website and try to get the shortest keypress possible - uncapped devices have a debounce delay of 10ms and less.
+                        All records and verifications must be done on uncapped devices. Check <a href="https://clickspeedtester.com/keyboard-latency-test/" target="_blank">this</a> website and try to get the shortest keypress possible - Uncapped devices have a debounce delay of 10ms and less.
                     </p>
                     <p>
                         All levels must be beaten on their listed FPS. Physics bypass can only be used for framerates 240 and under. For 2.1 levels, any fps in range 59-360 is allowed. 240/360 levels are allowed to be beaten with CBF. CBF is its own framerate.
                     </p>
                     <p>
-                        Handcam is required for completions/verifications for top 10 levels and ALL stamina levels to prevent hand swapping.
+                        Handcam is required for completions/verifications for top 20 levels and ALL stamina levels to prevent hand swapping.
                     </p>
                     <p>
                         Rebinding is allowed as long as its 1 or 2 keys.
@@ -134,7 +134,7 @@ export default {
                         There is no time limit for levels.
                     </p>
                     <p>
-                        Have common sense please
+                        Have common sense please.
                     </p>
                 </div>
             </div>
@@ -173,14 +173,14 @@ export default {
         // Error handling
         if (!this.list) {
             this.errors = [
-                "Failed to load list. Retry in a few minutes or notify list staff.",
+                "Failed to load the list. Please notify list staff.",
             ];
         } else {
             this.errors.push(
                 ...this.list
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
-                        return `Failed to load level. (${err}.json)`;
+                        return `Failed to load the level. (${err}.json)`;
                     })
             );
             if (!this.editors) {
