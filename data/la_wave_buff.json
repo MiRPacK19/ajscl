@@ -1,7 +1,7 @@
 {
     "id": 128776706,
     "name": "LalalalalA wave buff",
-    "author": "LucaGMD",
+    "author": "LucaGEMD",
     "creators": [],
     "verifier": "LucaGMD",
     "verification": "https://www.youtube.com/watch?v=5VsVQdrg9AQ",
@@ -12,26 +12,32 @@
         {
             "user": "F1erzza",
             "link": "https://www.youtube.com/watch?v=aW6_j6q_h4Y",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "rogi",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1564977071174721546",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "https://www.youtube.com/watch?v=KfbtTCBRlco",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=KfbtTCBRlco",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "https://www.youtube.com/watch?v=JD2h4hfLj9w",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://www.youtube.com/watch?v=JD2h4hfLj9w",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=_EXhl6ORlHk",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
