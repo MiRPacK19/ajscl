@@ -3,21 +3,33 @@
     "name": "inst adam peepe",
     "author": "squeeggd",
     "creators": [],
-    "verifier": "G1rcy",
-    "verification": "https://www.youtube.com/watch?v=AIKIKqQEdtA",
+    "verifier": "LightningGD",
+    "verification": "https://www.youtube.com/watch?v=3MySdnHxFLw",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
+            "user": "G1rcy",
+            "link": "https://youtu.be/AIKIKqQEdtA?si=TtR8cw0xcxF9u3Ed&t=142",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
             "user": "delgado_yeet_404",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=bAQzL-9m-_4",
             "hz": "CBF",
             "percent": 100
         },
         {
             "user": "Aut0Plays",
             "link": "https://youtu.be/TZYRhR73_FM?si=hcPtM_9AP-gQz79t&t=170",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=4eM3QyXeCYQ",
             "hz": "CBF",
             "percent": 100
         }
