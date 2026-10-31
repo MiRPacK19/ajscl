@@ -8,6 +8,13 @@
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
-    "records": [
+    "records": 
+    [
+        {
+            "user": "JustAnUnknown",
+            "link": "https://www.youtube.com/watch?v=A3LgWqkjur8",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
