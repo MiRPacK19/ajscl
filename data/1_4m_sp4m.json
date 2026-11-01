@@ -60,8 +60,8 @@
         {
             "user": "AngoPR",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "S1rnikgmd",
@@ -78,6 +78,12 @@
         {
             "user": "Lololowka",
             "link": "https://youtu.be/c0LfLI_zZ-E?si=D2qowaUrdGjp4WnL&t=9",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "CoffeeChips",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565481863378771978",
             "hz": "CBF",
             "percent": 100
         }
