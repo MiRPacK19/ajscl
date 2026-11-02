@@ -12,44 +12,50 @@
         {
             "user": "G1rcy",
             "link": "https://www.youtube.com/shorts/7aIoSexdzt4",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/ynQzk_t62LI?si=BdKK074T2LT6KYbv&t=76",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/cIyC4AvWxKo?si=W-kQiEaVuNn4RtBS&t=28",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "grecha",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://youtu.be/4e4UwWcVqzE?si=JeyiIALJunYKq2CJ&t=163",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=tXxUcguToPA",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "AngoPR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://youtu.be/BljjJ3sb5ts?si=vEKJ-iE9hIeZU-54&t=6",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "CoffeeChips",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565482589840744470",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
