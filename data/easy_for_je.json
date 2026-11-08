@@ -10,40 +10,46 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "G1rcy",
-           "link": "",
-           "hz": "CBF",
-           "percent": 100
+            "user": "G1rcy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "grecha",
-           "link": "",
-           "hz": "CBF",
-           "percent": 100
+            "user": "grecha",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",
-           "link": "",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=4e4UwWcVqzE",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",
-           "link": "",
-           "hz": "CBF",
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/8z_Njcjv0u8?si=rQWuHwP5hUYiFEWZ&t=123",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",
-           "link": "https://www.youtube.com/watch?v=iZpytY-vwu4",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=iZpytY-vwu4",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",
-           "link": "https://youtu.be/Ux0axeh3KyM?si=RcagVZhQGUPqnGGB&t=153",
-           "hz": "CBF",
-           "percent": 100
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1555948653984878652",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/Ux0axeh3KyM?si=RcagVZhQGUPqnGGB&t=153",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
