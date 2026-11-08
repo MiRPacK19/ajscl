@@ -12,50 +12,56 @@
         {
             "user": "F1erzza",
             "link": "",
-            "percent": 100,
-            "hz": "104"
+            "hz": "104",
+            "percent": 100
         },
         {
             "user": "helomomy",
             "link": "",
-            "percent": 100,
-            "hz": "104"
+            "hz": "104",
+            "percent": 100
         },
         {
             "user": "2OO3",
             "link": "",
-            "percent": 100,
-            "hz": "104"
+            "hz": "104",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "https://youtu.be/7na9-5Au9d0",
-            "percent": 100,
-            "hz": "104"
+            "hz": "104",
+            "percent": 100
         },
         {
             "user": "G1rcy",
             "link": "",
-            "percent": 100,
-            "hz": "104"
+            "hz": "104",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "104",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=uIIzEq_Gt3U",
+            "hz": "104",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "104",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "104",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "104",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "",
+            "hz": "104",
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1555948653984878652",
+            "hz": "104",
+            "percent": 100
         }
     ]
 }
