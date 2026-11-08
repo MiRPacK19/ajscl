@@ -12,8 +12,14 @@
         {
             "user": "JustAnUnknown",
             "link": "https://youtu.be/esUUGTn6X6I?si=XlZ2Pt9ce97YbSpS&t=123",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=OMZeU-xmXi0",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
