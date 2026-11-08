@@ -12,20 +12,20 @@
         {
             "user": "JustAnUnknown",
             "link": "https://www.youtube.com/watch?v=04yIYHpf2wU",
-            "percent": 100,
-            "hz": "93"
+            "hz": "93",
+            "percent": 100
         },
         {
             "user": "MiRPacK19",
             "link": "https://www.youtube.com/watch?v=6yjC3DV21O4",
-            "percent": 100,
-            "hz": "93"
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "https://www.youtube.com/shorts/452gCBHbXfs",     
-           "hz": "93",     
-           "percent": 100
+            "user": "Xed",
+            "link": "https://www.youtube.com/shorts/452gCBHbXfs",
+            "hz": "93",
+            "percent": 100
         },
         {
             "user": "SmokeyZZZ",
@@ -34,22 +34,40 @@
             "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "https://www.youtube.com/shorts/KUWKaFggmXg",     
-           "hz": "93",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/shorts/KUWKaFggmXg",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "https://youtu.be/C_txvjiUxwE?si=PZQDHYGKpD2ulqdp&t=31",     
-           "hz": "93",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/C_txvjiUxwE?si=PZQDHYGKpD2ulqdp&t=31",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "https://www.youtube.com/watch?v=MXtzJ8ZJVZk",     
-           "hz": "93",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://www.youtube.com/watch?v=MXtzJ8ZJVZk",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "Aerubos",
+            "link": "https://www.youtube.com/watch?v=bM_a12dMmBo",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=Y1UtEsmVHaI",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565730619315585074",
+            "hz": "93",
+            "percent": 100
         }
     ]
 }
