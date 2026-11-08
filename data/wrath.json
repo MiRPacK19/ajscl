@@ -10,22 +10,28 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",
-           "link": "https://youtu.be/gEIvdrvJZDk?si=7Awc9_SJHzV8uxrR&t=23",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://youtu.be/gEIvdrvJZDk?si=7Awc9_SJHzV8uxrR&t=23",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "AngoPR",
-           "link": "https://www.youtube.com/watch?v=zLapwDu2Tcw",
-           "hz": "CBF",
-           "percent": 100
+            "user": "AngoPR",
+            "link": "https://www.youtube.com/watch?v=zLapwDu2Tcw",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",
-           "link": "https://youtu.be/Ux0axeh3KyM?si=rX8WTjbM5pADb3fF&t=19",
-           "hz": "CBF",
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/Ux0axeh3KyM?si=rX8WTjbM5pADb3fF&t=19",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565729576892506172",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
