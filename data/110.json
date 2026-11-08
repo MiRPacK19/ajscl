@@ -4,7 +4,7 @@
     "author": "Aut0Plays",
     "creators": [],
     "verifier": "Aut0Plays",
-    "verification": "https://youtu.be/xomebtfznXk",
+    "verification": "https://www.youtube.com/watch?v=xomebtfznXk",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "110",
@@ -12,14 +12,20 @@
         {
             "user": "Lololowka",
             "link": "https://www.youtube.com/watch?v=IevXK1c2NIo",
-            "percent": 100,
-            "hz": "110"
+            "hz": "110",
+            "percent": 100
         },
         {
             "user": "Soli",
             "link": "https://medal.tv/games/geometry-dash/clips/nGBVNgMJknrNI3ODj",
-            "percent": 100,
-            "hz": "110"
+            "hz": "110",
+            "percent": 100
+        },
+        {
+            "user": "Aerubos",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1566512519063929026",
+            "hz": "110",
+            "percent": 100
         }
     ]
 }
