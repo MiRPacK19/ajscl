@@ -10,88 +10,94 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "grecha",   
+            "link": "",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Xed",   
+            "link": "",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",   
+            "link": "",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",   
+            "link": "",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "necrotikk",   
-           "link": "https://youtu.be/dSW6lwy-IFw?si=-ILlTczOXhLzThqD",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "necrotikk",   
+            "link": "https://youtu.be/dSW6lwy-IFw?si=-ILlTczOXhLzThqD",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "Liknod",   
-           "link": "https://youtu.be/bOH9-xpr9vY?si=IOVJbmCXXxNkKptO",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Liknod",   
+            "link": "https://youtu.be/bOH9-xpr9vY?si=IOVJbmCXXxNkKptO",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "delgado_yeet_404",   
-           "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "delgado_yeet_404",   
+            "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "S1rnikgmd",   
+            "link": "",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",   
+            "link": "",     
+            "hz": "CBF",     
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=KEEaRac55Fg",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "AngoPR",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1541026878960173146/ajscl_comp.mp4?ex=6a9de4de&is=6a9c935e&hm=2b489a1cd92981fb9d237744cac1983f2457f0f50b60ea5eb8e908163b91a0f8&",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1541026878960173146/ajscl_comp.mp4?ex=6a9de4de&is=6a9c935e&hm=2b489a1cd92981fb9d237744cac1983f2457f0f50b60ea5eb8e908163b91a0f8&",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "evnado",
-           "link": "https://www.youtube.com/shorts/rf2qX5rNAQI",
-           "hz": "CBF",
-           "percent": 100
+            "user": "evnado",
+            "link": "https://www.youtube.com/shorts/rf2qX5rNAQI",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",
-           "link": "https://youtu.be/Ux0axeh3KyM?si=sWX7mm4w0Yq1SuTp&t=9",
-           "hz": "CBF",
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/Ux0axeh3KyM?si=sWX7mm4w0Yq1SuTp&t=9",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1566391317142048900",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
