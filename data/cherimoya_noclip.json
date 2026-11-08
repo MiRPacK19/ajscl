@@ -1,7 +1,7 @@
 {
     "id": 129201318,
     "name": "cherimoya noclip",
-    "author": "LucaGMD",
+    "author": "LucaGEMD",
     "creators": [],
     "verifier": "LucaGMD",
     "verification": "https://www.youtube.com/watch?v=KNzp8QFaTj4",
@@ -12,38 +12,44 @@
         {
             "user": "GMDMIRROR",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "F1erzza",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "60",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=eHSP3nnZvEI",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
