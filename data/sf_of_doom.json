@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+           "user": "JustAnUnknown",   
+           "link": "https://www.youtube.com/watch?v=mKPoFaieg6c",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
