@@ -4,40 +4,40 @@
     "author": "AngoPR",
     "creators": [],
     "verifier": "AngoPR",
-    "verification": "https://youtu.be/abUJv2nFhHk",
+    "verification": "https://www.youtube.com/watch?v=abUJv2nFhHk",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "93",
     "records": [
         {
             "user": "Xed",
-            "link": "",
-            "percent": 100,
-            "hz": "93"
+            "link": "https://www.youtube.com/shorts/qPdTHxD9wqA",
+            "hz": "93",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
-            "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1485991107207757885/Video_Project.mp4?ex=69c3e090&is=69c28f10&hm=410120bff09aa6202ce65d8ffe29b09a3a33b50b1137bc33e85efbce7d4a93bc&",
-            "percent": 100,
-            "hz": "93"
+            "link": "https://youtu.be/LNBKjGze11s?si=lqlFPnAQVoH_EGgS&t=21",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/IpS0RizP8mQ?si=irACDYY47zIQBgDh&t=171",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/C_txvjiUxwE?si=udoNR5LxaTt5UXYX&t=11",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=czVbarHU7eM",
+            "hz": "93",
+            "percent": 100
         },
         {
             "user": "tFluffy",
