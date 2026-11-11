@@ -4,16 +4,16 @@
     "author": "9tn",
     "creators": [],
     "verifier": "LucaGMD",
-    "verification": "https://youtu.be/MdXLmrlXSFg?si=rS5aWJS_F455xgPL",
+    "verification": "https://www.youtube.com/watch?v=MdXLmrlXSFg",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=WceWw5OE1_4",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
