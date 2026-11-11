@@ -10,26 +10,32 @@
     "fps": "95",
     "records": [
         {
-          "user": "Xed",
+            "user": "Xed",
             "link": "https://www.youtube.com/shorts/z8jmQDmZUzQ",
             "hz": "95",
             "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "https://youtu.be/z23lY81VTJs?si=pzbYteQ6GVCUhapv&t=39",     
-           "hz": "95",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/z23lY81VTJs?si=pzbYteQ6GVCUhapv&t=39",
+            "hz": "95",
+            "percent": 100
         },
-         {
-           "user": "Aut0Plays",   
-           "link": "https://archive.org/details/ajscl-doedeer-aut0plays",     
-           "hz": "95",     
-           "percent": 100
+        {
+            "user": "Aut0Plays",
+            "link": "https://archive.org/details/ajscl-doedeer-aut0plays",
+            "hz": "95",
+            "percent": 100
         },
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1550383601730846720",
+            "hz": "95",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/Z6_9CWM2O74?si=Q0pM6yYFodBVL7Oa&t=81",
             "hz": "95",
             "percent": 100
         }
