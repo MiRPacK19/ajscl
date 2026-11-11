@@ -10,16 +10,22 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",
-           "link": "https://www.youtube.com/watch?v=T8G4I7K7DiQ",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=T8G4I7K7DiQ",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",
-           "link": "https://www.youtube.com/watch?v=Ux0axeh3KyM",
-           "hz": "CBF",
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://www.youtube.com/watch?v=Ux0axeh3KyM",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/Z6_9CWM2O74?si=ft8jA1mJuC6A8APC&t=275",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
