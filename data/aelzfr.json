@@ -4,7 +4,7 @@
     "author": "JustAnUnknown",
     "creators": [],
     "verifier": "JustAnUnknown",
-    "verification": "https://youtu.be/t6yPW1XRKQA?si=pjRQEWdMMT1sOHGa",
+    "verification": "https://www.youtube.com/watch?v=t6yPW1XRKQA",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "90",
@@ -12,6 +12,12 @@
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1549288444876820591",
+            "hz": "90",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/Z6_9CWM2O74?si=ydzDWMIZGJf3GJLG&t=318",
             "hz": "90",
             "percent": 100
         }
