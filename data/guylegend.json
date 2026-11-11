@@ -4,28 +4,28 @@
     "author": "losos634",
     "creators": [],
     "verifier": "Lololowka",
-    "verification": "https://youtu.be/1wlCM1M_nF0",
+    "verification": "https://www.youtube.com/watch?v=1wlCM1M_nF0",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "54",
     "records": [
         {
-           "user": "Aut0Plays",
-           "link": "https://youtu.be/XhTXU3TJk7Y",
-           "hz": "54",
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=XhTXU3TJk7Y",
+            "hz": "54",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "54",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://youtu.be/uF14Rqt7w64?si=bbK_uPoXn_sF2o5J&t=19",
+            "hz": "54",
+            "percent": 100
         },
         {
-           "user": "Bacon_wazu",   
-           "link": "https://www.youtube.com/watch?v=sErqFzUHUwA",     
-           "hz": "54",     
-           "percent": 100
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=sErqFzUHUwA",
+            "hz": "54",
+            "percent": 100
         }
     ]
 }
