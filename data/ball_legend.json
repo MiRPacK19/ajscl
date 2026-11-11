@@ -4,7 +4,7 @@
     "author": "Xed01",
     "creators": [],
     "verifier": "Xed",
-    "verification": "https://www.youtube.com/shorts/bzqFE8-V7U8",
+    "verification": "https://www.youtube.com/watch?v=bzqFE8-V7U8",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "95",
@@ -12,38 +12,44 @@
         {
             "user": "GMDMIRROR",
             "link": "",
-            "percent": 100,
-            "hz": "95"
+            "hz": "95",
+            "percent": 100
         },
         {
             "user": "MiRPacK19",
             "link": "https://youtu.be/8bmjr3Ekhqk",
-            "percent": 100,
-            "hz": "95"
+            "hz": "95",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "",
-            "percent": 100,
-            "hz": "95"
+            "hz": "95",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "95",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "95",
+            "percent": 100
         },
-         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "95",     
-           "percent": 100
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=bo3Em8uMpAw",
+            "hz": "95",
+            "percent": 100
         },
-         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "95",     
-           "percent": 100
+        {
+            "user": "tFluffy",
+            "link": "",
+            "hz": "95",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/Z6_9CWM2O74?si=1KcmBA1ljRqL5LcK&t=205",
+            "hz": "95",
+            "percent": 100
         }
     ]
 }
