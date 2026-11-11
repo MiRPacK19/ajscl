@@ -2,7 +2,7 @@
     "id": 128131157,
     "name": "kataTARTARUS Spam",
     "author": "LucaGEMD",
-    "creators": ["ULTRAHAROS", "LucaGMD"],
+    "creators": ["ULTRAHAROS", "LucaGEMD"],
     "verifier": "LucaGMD",
     "verification": "https://www.youtube.com/watch?v=A6twdY3qdwo",
     "percentToQualify": "100",
@@ -12,38 +12,44 @@
         {
             "user": "GMDMIRROR",
             "link": "https://www.youtube.com/watch?v=OxN4HhnXMTg",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "shafikdabest",
             "link": "https://youtu.be/4q3GZfQULmQ?si=J8vVEpLRVII4tK2U&t=9",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Aut0Plays",
             "link": "https://www.youtube.com/watch?v=Ct-r3acFxUE",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "S1rnikgmd",
             "link": "https://discord.com/channels/1482610459302559838/1522699522315391211/1547661507750535188",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Lololowka",
             "link": "https://youtu.be/gEIvdrvJZDk?si=mo0osjJ6XAYdBiyr&t=40",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "https://youtu.be/Ux0axeh3KyM?si=V48JBu8y6fven86-&t=387",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://medal.tv/games/geometry-dash/clips/nTKBDn8zcazrSmccT",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
