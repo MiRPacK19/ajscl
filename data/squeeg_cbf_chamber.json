@@ -18,8 +18,14 @@
         {
             "user": "macaca",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/Z6_9CWM2O74?si=Moqkz1BDIfnNbvCU&t=124",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
