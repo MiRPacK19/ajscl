@@ -2,60 +2,60 @@
     "id": 130698961,
     "name": "paperguy is dead",
     "author": "LightningytGD",
-    "creators": ["IsntAdam", "LightningGD"],
+    "creators": ["IsntAdam", "LightningytGD"],
     "verifier": "LightningGD",
-    "verification": "https://youtu.be/XxgSYJ7pfgs",
+    "verification": "https://www.youtube.com/watch?v=PlL7GBIp2Qg",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "60",
     "records": [
         {
             "user": "F1erzza",
-            "link": "",
-            "percent": 100,
-            "hz": "60"
+            "link": "https://www.youtube.com/watch?v=qOfmL1C43pg",
+            "hz": "60",
+            "percent": 100
         },
         {
             "user": "rogi",
-            "link": "",
-            "percent": 100,
-            "hz": "60"
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1467273555099127931",
+            "hz": "60",
+            "percent": 100
         },
         {
             "user": "OmorGD",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1474691313772396645",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "grecha",
             "link": "",
-            "percent": 100,
-            "hz": "60"
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "60",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "60",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/shorts/JPnAMfRfkh4",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "60",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=vvGjLf3jc0g",
+            "hz": "60",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "60",     
-           "percent": 100
-        },
-         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "60",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
