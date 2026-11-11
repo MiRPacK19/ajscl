@@ -4,52 +4,52 @@
     "author": "daunlabavoi",
     "creators": [],
     "verifier": "GMDMIRROR",
-    "verification": "https://youtu.be/7pwcmMo83Pk",
+    "verification": "https://www.youtube.com/watch?v=7pwcmMo83Pk",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "46.5",
     "records": [
         {
             "user": "MiRPacK19",
-            "link": "https://youtu.be/SWTLPMA7KjM",
-            "percent": 100,
-            "hz": "46.5"
+            "link": "https://www.youtube.com/watch?v=SWTLPMA7KjM",
+            "hz": "46.5",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
-            "link": "",
-            "percent": 100,
-            "hz": "46.5"
+            "link": "https://youtu.be/ztrcQGmuRpg?si=7NLNPlfG-MP_Sgdp&t=40",
+            "hz": "46.5",
+            "percent": 100
         },
         {
             "user": "AngoPR",
-            "link": "https://youtu.be/Q1IjyIP9uXc?si=oZ-YcjpAVqBBzrS7",
-            "percent": 100,
-            "hz": "46.5"
+            "link": "https://www.youtube.com/watch?v=Q1IjyIP9uXc",
+            "hz": "46.5",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "46.5",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/z23lY81VTJs?si=ndCtAD3g88dGkC0O&t=15",
+            "hz": "46.5",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "46.5",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://www.youtube.com/watch?v=vePntJcYVu4",
+            "hz": "46.5",
+            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "46.5",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "https://www.youtube.com/watch?v=dfzh8tHaCx8",
+            "hz": "46.5",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "46.5",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=JJkRbYiEN_Y",
+            "hz": "46.5",
+            "percent": 100
         }
     ]
 }
