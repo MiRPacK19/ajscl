@@ -10,22 +10,28 @@
     "fps": "93",
     "records": [
         {
-           "user": "GMDMIRROR",
-           "link": "https://www.youtube.com/shorts/X80KQ8N8ZWY",
-           "hz": "93",
-           "percent": 100
+            "user": "GMDMIRROR",
+            "link": "https://www.youtube.com/shorts/X80KQ8N8ZWY",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",
-           "link": "https://youtu.be/z23lY81VTJs?si=CkuCFdZdNv6DqNfi&t=28",
-           "hz": "93",
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/z23lY81VTJs?si=CkuCFdZdNv6DqNfi&t=28",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "Bacon_wazu",
-           "link": "https://www.youtube.com/watch?v=N6_mZZ9YoHo",
-           "hz": "93",
-           "percent": 100
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=N6_mZZ9YoHo",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/Z6_9CWM2O74?si=xqele8mTEkkKkoga&t=292",
+            "hz": "93",
+            "percent": 100
         }
     ]
 }
