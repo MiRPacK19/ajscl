@@ -1,6 +1,6 @@
-    {
+{
     "id": 116170315,
-    "name": "Inst Adam Clear",
+    "name": "inst adam clear",
     "author": "JeDoesStuff",
     "creators": [],
     "verifier": "JeDoesStuff",
@@ -12,50 +12,50 @@
         {
             "user": "F1erzza",
             "link": "https://www.youtube.com/watch?v=SOF6Rswc1Zc",
-            "percent": 100,
-            "hz": 102
+            "hz": "102",
+            "percent": 100
         },
         {
             "user": "G1rcy",
             "link": "https://www.youtube.com/shorts/03iHcHXNxJ4",
-            "percent": 100,
-            "hz": 102
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "https://www.youtube.com/watch?v=eJBGEA0Queo",     
-           "hz": "102",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://www.youtube.com/watch?v=eJBGEA0Queo",
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "LucaGMD",   
-           "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1504963512039116923",     
-           "hz": "102",     
-           "percent": 100
+            "user": "LucaGMD",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1504963512039116923",
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "https://www.youtube.com/watch?v=X-ao0RmHa9g",     
-           "hz": "102",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://www.youtube.com/watch?v=X-ao0RmHa9g",
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "https://www.youtube.com/watch?v=CAmDePznKQc",     
-           "hz": "102",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=CAmDePznKQc",
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "Aerubos",   
-           "link": "https://www.youtube.com/watch?v=W7kRoAN4pBI",     
-           "hz": "102",     
-           "percent": 100
+            "user": "Aerubos",
+            "link": "https://www.youtube.com/watch?v=W7kRoAN4pBI",
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "Bacon_wazu",   
-           "link": "https://www.youtube.com/watch?v=xNAGfi1b0WM",     
-           "hz": "102",     
-           "percent": 100
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=xNAGfi1b0WM",
+            "hz": "102",
+            "percent": 100
         }
     ]
 }
