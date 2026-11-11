@@ -1,10 +1,10 @@
 {
     "id": 125948059,
-    "name": "Isnt adam never clea",
+    "name": "Isnt Adam never clea",
     "author": "JustAnUnknown",
     "creators": [],
     "verifier": "IsntAdam",
-    "verification": "https://youtu.be/4SRIFWAtKPs",
+    "verification": "https://www.youtube.com/watch?v=4SRIFWAtKPs",
     "percentToQualify": "100",
     "fps": "CBF",
     "handcam": "Not Required",
@@ -12,86 +12,92 @@
         {
             "user": "F1erzza",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "LightningGD",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "OmorGD",
             "link": "https://youtu.be/a_usnT2FXZI",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "GMDMIRROR",
             "link": "https://youtube.com/shorts/q3PTLJn82oA?si=OWPE2717_DweRCqc",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
-    {
-     "user": "grecha",
-     "link": "https://youtu.be/8I_-D0DwMc4?si=BGEbDZzGDTELlu7x",
-     "hz": "CBF",
-     "percent": 100
-    },
+        {
+            "user": "grecha",
+            "link": "https://youtu.be/8I_-D0DwMc4?si=BGEbDZzGDTELlu7x",
+            "hz": "CBF",
+            "percent": 100
+        },
         {
             "user": "G1rcy",
             "link": "https://www.youtube.com/shorts/HP9e1JePUM0",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "delgado_yeet_404",   
-           "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "delgado_yeet_404",
+            "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
-        },       
-        {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lunar",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lunar",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "AngoPR",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=zfO0sRMgKSo",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1550754065657364580",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "S1rnikgmd",
+            "link": "https://youtu.be/L0VxgPS6rAU?si=01KwMrqcUwz5tWTy&t=21",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
-}    
+}
