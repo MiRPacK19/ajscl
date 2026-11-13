@@ -4,22 +4,28 @@
     "author": "LightningytGD",
     "creators": [],
     "verifier": "LightningGD",
-    "verification": "https://youtu.be/x1khxW9OESs",
+    "verification": "https://www.youtube.com/watch?v=x1khxW9OESs",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=KQx-rwEqE-g",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=v9nh_8pCSUo",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "OmorGD",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1549452644278476840",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
