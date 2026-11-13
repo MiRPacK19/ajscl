@@ -4,76 +4,76 @@
     "author": "MM9000",
     "creators": [],
     "verifier": "LucaGMD",
-    "verification": "https://youtu.be/-eqJb21Fmm4",
+    "verification": "https://www.youtube.com/watch?v=-eqJb21Fmm4",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
         {
             "user": "GMDMIRROR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://www.youtube.com/shorts/OkeinnfIL5E",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "F1erzza",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://youtu.be/FjmWVG3-FJI?si=VMyJWFUIH-f2lXkN&t=10",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Xed",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://www.youtube.com/shorts/sLjw3XrLLUY",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "helomomy",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1471591436393644103",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
-            "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1485340684612403261/2026-03-22_20-52-00.mp4?ex=69c22b8f&is=69c0da0f&hm=14abd5f10f9551d8d81fe75d798f6fdf5cfc61df380e196707d325089455aa1f&",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://youtu.be/LNBKjGze11s?si=XigJ5wuAepz_RRay&t=80",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "G1rcy",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://youtu.be/3JGULffBGZE?si=qXU9JDgKFO7hHrNL&t=121",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://youtu.be/fWkUoroVvz8?si=59NM6ahkvKdQj2XQ&t=80",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://youtu.be/Zdl97Ama1eQ?si=FWI15NhTeN9hBznZ&t=14",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://youtu.be/oq-eaGiJOsg?si=d6BPZT7Qj8in9IQq&t=14",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=rK_Jh0_QSzQ",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "AngoPR",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://youtu.be/BljjJ3sb5ts?si=kw4FzER5z9dS4HtD&t=159",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
