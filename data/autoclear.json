@@ -65,10 +65,15 @@
         },
         {
             "user": "JustAnUnknown",
-            "link": "https://www.youtube.com/watch?v=iG4EsNdbZlA",
+            "link": "https://youtu.be/iG4EsNdbZlA?si=yZE_RQVVx0T-i2xt&t=65",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ivansex69",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1570167005795983564",
             "hz": "60",
             "percent": 100
         }
-
     ]
 }
