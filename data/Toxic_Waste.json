@@ -1,8 +1,8 @@
 {
-    "id": 134980318,
+    "id": 134817340,
     "name": "toxic waste",
-    "author": "ywuChaos",
-    "creators": ["Liknod"],
+    "author": "vny8",
+    "creators": [],
     "verifier": "Liknod",
     "verification": "https://www.youtube.com/watch?v=A0Bdwyka5ic",
     "percentToQualify": "100",
@@ -17,7 +17,13 @@
         },
         {
             "user": "JustAnUnknown",
-            "link": "https://www.youtube.com/watch?v=CxYDXslQxoY",
+            "link": "https://youtu.be/CxYDXslQxoY?si=FWZfl6Ydvi0WCTuc&t=247",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=a4zeZmizlPc",
             "hz": "CBF",
             "percent": 100
         }
