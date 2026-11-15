@@ -1,8 +1,8 @@
 {
     "id": 149877655,
     "name": "VLADIMIR 26",
-    "author": "S1rnikgmd",
-    "creators": [],
+    "author": "Aut0Plays",
+    "creators": ["S1rnikgmd"],
     "verifier": "S1rnikgmd",
     "verification": "https://www.youtube.com/watch?v=vUwEHMsaU3A",
     "percentToQualify": "100",
@@ -12,20 +12,26 @@
         {
             "user": "Aut0Plays",
             "link": "https://www.youtube.com/watch?v=F_Hs43dlxEM",
-            "percent": 100,
-            "hz": 52
+            "hz": "52",
+            "percent": 100
         },
         {
             "user": "Bacon_wazu",
             "link": "https://www.youtube.com/watch?v=tYRGaieRrns",
-            "percent": 100,
-            "hz": 52
+            "hz": "52",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "https://youtu.be/Ux0axeh3KyM?si=jiCKhfw2RQEmHQ8a&t=409",
-            "percent": 100,
-            "hz": 52
+            "hz": "52",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://youtu.be/2pDGj6HtRIE?si=lILHLrSDOMwVQa0a&t=22",
+            "hz": "52",
+            "percent": 100
         }
     ]
 }
