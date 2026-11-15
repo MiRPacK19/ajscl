@@ -12,61 +12,67 @@
         {
             "user": "G1rcy",
             "link": "https://www.youtube.com/shorts/HP9e1JePUM0",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "https://youtu.be/cIyC4AvWxKo",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "grecha",
             "link": "https://youtu.be/foCKZnJ4QVI?si=Zkor7onMzXNYNf0z",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Xed",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "MiRPacK19",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
-        },
-        {
-            "user": "shafikdabest",   
-            "link": "",     
-            "hz": "CBF",     
+            "hz": "CBF",
             "percent": 100
         },
         {
-            "user": "Lololowka",   
-            "link": "",     
-            "hz": "CBF",     
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "",
+            "hz": "CBF",
             "percent": 100
         },
         {
             "user": "AngoPR",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
-        },
-        {
-            "user": "Aut0Plays",   
-            "link": "",     
-            "hz": "CBF",     
+            "hz": "CBF",
             "percent": 100
         },
         {
-            "user": "zen",   
-            "link": "https://www.youtube.com/watch?v=dzsJFKG9I8g",     
-            "hz": "CBF",     
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=rX7YTnQ0zaQ",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "zen",
+            "link": "https://www.youtube.com/watch?v=dzsJFKG9I8g",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://youtu.be/SB38tn6tC2Y?si=JVr8DMEaprWAJISX&t=102",
+            "hz": "CBF",
             "percent": 100
         }
     ]
