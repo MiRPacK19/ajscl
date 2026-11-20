@@ -12,91 +12,91 @@
         {
             "user": "IsntAdam",
             "link": "",
-            "percent": 100,
-            "hz": "240"
+            "hz": "240",
+            "percent": 100
         },
         {
             "user": "ywuChaos",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "loooookkk",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "GMDMIRROR",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "LucaGMD",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "F1erzza",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "JustAnUnknown",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "LightningGD",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Xed",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "2OO3",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "AbduTahigistan",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "helomomy",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "rogi",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Liknod",   
             "link": "",     
-            "hz": "CBF",     
+            "hz": "CBF",
             "percent": 100
         },
         {
-            "user": "MiRPacK19",   
-            "link": "",     
-            "hz": "CBF",     
+            "user": "MiRPacK19",
+            "link": "",
+            "hz": "CBF",
             "percent": 100
         },
         {
@@ -162,6 +162,12 @@
         {
             "user": "CoffeeChips",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1566895845134180432",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=iWCGlcCPiaE",
             "hz": "CBF",
             "percent": 100
         }
