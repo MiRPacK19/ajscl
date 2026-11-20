@@ -1,10 +1,10 @@
 {
     "id": 128092069,
     "name": "MIRRORGD CHALLENGE",
-    "author": "Liknod",
-    "creators": [],
+    "author": "daunlabavoi",
+    "creators": ["Liknod"],
     "verifier": "GMDMIRROR",
-    "verification": "https://youtu.be/kYT9Cc_f5B8?si=QAzgmp0xQ8NRoXUM",
+    "verification": "https://www.youtube.com/watch?v=kYT9Cc_f5B8",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
@@ -12,80 +12,86 @@
         {
             "user": "JustAnUnknown",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "necrotikk",
             "link": "https://www.youtube.com/watch?v=uTqwoySyHeM",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "https://www.youtube.com/shorts/BPy3VcvP0cQ",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/shorts/BPy3VcvP0cQ",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "https://medal.tv/games/geometry-dash/clips/mF0e4K4eMzUsz058t?invite=cr-MSxuZTksNDI2OTQ3NzUx",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Xed",
+            "link": "https://medal.tv/games/geometry-dash/clips/mF0e4K4eMzUsz058t",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "https://www.youtube.com/watch?v=zTim9cmzzng",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "grecha",
+            "link": "https://www.youtube.com/watch?v=zTim9cmzzng",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Liknod",   
-           "link": "https://youtu.be/bOH9-xpr9vY?si=IOVJbmCXXxNkKptO",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Liknod",
+            "link": "https://youtu.be/bOH9-xpr9vY?si=OOSdwH3U8Gnpv0lm&t=45",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "https://youtu.be/HbvzY6Qhdw4?si=-pryt8s8fKDOI_LM",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "AngoPR",
+            "link": "https://www.youtube.com/watch?v=HbvzY6Qhdw4",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "delgado_yeet_404",   
-           "link": "https://www.youtube.com/watch?v=7SjmG_Iiy48",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "delgado_yeet_404",
+            "link": "https://youtu.be/7SjmG_Iiy48?si=pbblmZtvDQY5koQG&t=575",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lololowka",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Lololowka",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=WkKMxeiQcpQ",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=xe3duFweAOo",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
