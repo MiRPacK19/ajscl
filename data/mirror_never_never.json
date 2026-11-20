@@ -12,14 +12,14 @@
         {
             "user": "JustAnUnknown",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "G1rcy",
             "link": "https://www.youtube.com/watch?v=CrNgkVyHi0w",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "Xed",
@@ -78,6 +78,12 @@
         {
             "user": "CoffeeChips",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565481863378771978",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=bgslRUIWSCk",
             "hz": "CBF",
             "percent": 100
         }
