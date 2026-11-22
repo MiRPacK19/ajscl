@@ -6,7 +6,7 @@
     "verifier": "Lunar",
     "verification": "https://www.youtube.com/watch?v=qEI9Sqr8zzg",
     "percentToQualify": "100",
-    "handcam": "Not Required",
+    "handcam": "Required",
     "fps": "CBF",
     "records": [
         {
