@@ -4,76 +4,88 @@
     "author": "delgado_yeet_404",
     "creators": [],
     "verifier": "delgado_yeet_404",
-    "verification": "https://youtu.be/JpkzMWYya7k?si=XdCehkoVBZeHYWgA",
+    "verification": "https://www.youtube.com/watch?v=JpkzMWYya7k",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
         {
             "user": "Liknod",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://www.youtube.com/watch?v=tK7OaQE9zAk",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "ywuChaos",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "link": "https://www.youtube.com/watch?v=3TuM2v59ta8",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "AngoPR",   
-           "link": "https://www.youtube.com/watch?v=Bta42NcBwfo",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "AngoPR",
+            "link": "https://www.youtube.com/watch?v=Bta42NcBwfo",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "https://www.youtube.com/watch?v=cPqYed6n5mw",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=cPqYed6n5mw",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-          "user": "JustAnUnknown",
+            "user": "JustAnUnknown",
             "link": "https://www.youtube.com/watch?v=nNYNeYIKGG8",
             "hz": "CBF",
             "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1511023092724662352",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "grecha",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "LightningGD",
+            "link": "https://www.youtube.com/watch?v=bjGl6KSwkhs",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "grecha",
+            "link": "https://www.youtube.com/watch?v=TdsG9FUrxVw",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Lunar",   
-           "link": "",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1518455148073189457",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",
-           "link": "",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Lunar",
+            "link": "https://outplayed.tv/geometry-dash/BWVD40",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=WO0WfI3iO78",
+            "hz": "CBF",
+            "percent": 100
         },
         {
             "user": "macaca",
             "link": "",
-            "percent": 100,
-            "hz": "CBF"
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=MtKmsoEb4pA",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
