@@ -2,46 +2,58 @@
     "id": 140312193,
     "name": "Pal Deity",
     "author": "lexipwastaken",
-    "creators": ["LucaGMD, JeDoesStuff, pixelfactorial"],
+    "creators": ["LucaGMD", "JeDoesStuff", "pixelfactorial"],
     "verifier": "LucaGMD",
-    "verification": "https://youtu.be/qcegM2g00a4",
+    "verification": "https://www.youtube.com/watch?v=qcegM2g00a4",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "100",
     "records": [
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
-           "hz": "100",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/M9UbbQErmNQ?si=64xhBtpVn61b3kXh&t=58",
+            "hz": "100",
+            "percent": 100
         },
         {
-           "user": "G1rcy",   
-           "link": "https://www.youtube.com/watch?v=VrYLvwPLEqg",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "G1rcy",
+            "link": "https://youtu.be/VrYLvwPLEqg?si=TFd9Rd-WLw2CjvZJ&t=77",
+            "hz": "100",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "100",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://www.youtube.com/watch?v=xZyMvieMo04",
+            "hz": "100",
+            "percent": 100
+        },
+        {
+            "user": "helomomy",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1539666456357371974",
+            "hz": "100",
+            "percent": 100
+        },
+        {
+            "user": "Aerubos",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1546545359482921041",
+            "hz": "100",
+            "percent": 100
         },
         {
             "user": "Aut0Plays",
-            "link": "https://youtu.be/QpYTPqz-a9E",
+            "link": "https://www.youtube.com/watch?v=QpYTPqz-a9E",
             "hz": "100",
             "percent": 100
         },
         {
             "user": "tFluffy",
-            "link": "https://youtu.be/hcAVu15BHg0",
+            "link": "https://www.youtube.com/watch?v=hcAVu15BHg0",
             "hz": "100",
             "percent": 100
         },
         {
             "user": "Bacon_wazu",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=6efUvVoDZl8",
             "hz": "100",
             "percent": 100
         }
