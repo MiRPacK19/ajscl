@@ -4,22 +4,28 @@
     "author": "GMDPlaksa",
     "creators": [],
     "verifier": "S1rnikgmd",
-    "verification": "https://youtu.be/MD995EqptFk?si=oTiXwogeVhdJ3m1_",
+    "verification": "https://www.youtube.com/watch?v=MD995EqptFk",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "102",
     "records": [
         {
-        "user": "Bacon_wazu",
-        "link": "https://youtu.be/toOVZ_Lu5vY",
-        "hz": 102,
-        "percent": 100
+            "user": "Bacon_wazu",
+            "link": "https://www.youtube.com/watch?v=toOVZ_Lu5vY",
+            "hz": "102",
+            "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "https://www.youtube.com/watch?v=iG4EsNdbZlA",     
-           "hz": "102",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/quLPThYhCDw?si=_BE89vNx29oR33Xa&t=47",
+            "hz": "102",
+            "percent": 100
+        },
+        {
+            "user": "ivansex69",
+            "link": "https://www.youtube.com/watch?v=3q7JeZlqCBE",
+            "hz": "102",
+            "percent": 100
         }
     ]
 }
