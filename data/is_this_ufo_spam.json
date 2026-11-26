@@ -4,7 +4,7 @@
     "author": "Xed01",
     "creators": [],
     "verifier": "Xed",
-    "verification": "https://medal.tv/games/geometry-dash/clips/mGbDpkrNEfwJ36L3n?invite=cr-MSxzdjYsNDI2OTQ3NzUx",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mGbDpkrNEfwJ36L3n",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "CBF",
@@ -54,6 +54,12 @@
         {
             "user": "CoffeeChips",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565482589840744470",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=vAJt9vH_wB8",
             "hz": "CBF",
             "percent": 100
         }
