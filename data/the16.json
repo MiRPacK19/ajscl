@@ -1,6 +1,6 @@
 {
     "id": 128190739,
-    "name": "the 16 gentlemen",
+    "name": "THE 16 GENTLEMEN",
     "author": "Cookie498",
     "creators": ["Skylar"],
     "verifier": "JustAnUnknown",
@@ -10,16 +10,22 @@
     "fps": "CBF",
     "records": [
         {
-           "user": "Lololowka",
-           "link": "https://www.youtube.com/watch?v=eNBepHqGWl8",
-           "hz": "CBF",
-           "percent": 100
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=eNBepHqGWl8",
+            "hz": "CBF",
+            "percent": 100
         },
         {
-           "user": "S1rnikgmd",
-           "link": "https://www.youtube.com/watch?v=_3XZwTTrv7A",
-           "hz": "CBF",
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "https://www.youtube.com/watch?v=_3XZwTTrv7A",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/j__cOJg2hfc?si=CkZjt6aXL1JVdno_&t=66",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
