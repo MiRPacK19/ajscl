@@ -4,46 +4,52 @@
     "author": "AngoPR",
     "creators": [],
     "verifier": "AngoPR",
-    "verification": "https://youtu.be/yJQf3LVLN5c?si=MtfpqJY8vuw61uYh",
+    "verification": "https://www.youtube.com/watch?v=yJQf3LVLN5c",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "93",
     "records": [
         {
-           "user": "JustAnUnknown",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "shafikdabest",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "shafikdabest",
+            "link": "",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "Xed",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
-        },       
-        {
-           "user": "S1rnikgmd",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "Xed",
+            "link": "",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "tFluffy",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "S1rnikgmd",
+            "link": "",
+            "hz": "93",
+            "percent": 100
         },
         {
-           "user": "Aut0Plays",   
-           "link": "",     
-           "hz": "93",     
-           "percent": 100
+            "user": "tFluffy",
+            "link": "",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "Aut0Plays",
+            "link": "https://www.youtube.com/watch?v=zjADhKmiryQ",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/j__cOJg2hfc?si=VRlC-ZpDuJaS8KNW&t=54",
+            "hz": "93",
+            "percent": 100
         }
     ]
 }
