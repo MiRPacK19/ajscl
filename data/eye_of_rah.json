@@ -22,12 +22,6 @@
             "percent": 100
         },
         {
-            "user": "G1rcy",
-            "link": "https://youtu.be/IpS0RizP8mQ?si=irACDYY47zIQBgDh&t=171",
-            "hz": "93",
-            "percent": 100
-        },
-        {
             "user": "shafikdabest",
             "link": "https://youtu.be/C_txvjiUxwE?si=udoNR5LxaTt5UXYX&t=11",
             "hz": "93",
@@ -48,6 +42,12 @@
         {
             "user": "CoffeeChips",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1557051459491725443",
+            "hz": "93",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=j__cOJg2hfc",
             "hz": "93",
             "percent": 100
         }
