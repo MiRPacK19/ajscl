@@ -1,8 +1,8 @@
 {
     "id": 129049982,
     "name": "rock john",
-    "author": "JeDoesStuff, ywuChaos",
-    "creators": [],
+    "author": "ywuChaos",
+    "creators": ["JeDoesStuff", "ywuChaos"],
     "verifier": "ywuChaos",
     "verification": "https://www.youtube.com/watch?v=rzHPGq3ZptQ",
     "percentToQualify": "100",
@@ -10,63 +10,69 @@
     "fps": "CBF",
     "records": [
         {
-            "user": "GMDMIRROR",   
-            "link": "",     
-            "hz": "CBF",     
-            "percent": 100
-        },
-        {
-            "user": "F1erzza",   
-            "link": "",     
-            "hz": "CBF",     
-            "percent": 100
-        },
-        {
-            "user": "JustAnUnknown",   
-            "link": "",     
-            "hz": "CBF",     
-            "percent": 100
-        },
-        {
-            "user": "Xed",   
-            "link": "",     
-            "hz": "CBF",     
-            "percent": 100
-        },
-        {
-            "user": "2OO3",   
-            "link": "",     
-            "hz": "CBF",     
-            "percent": 100
-        },
-        {
-            "user": "LightningGD",   
-            "link": "",     
-            "hz": "CBF",     
-            "percent": 100
-        },
-        {
-            "user": "G1rcy",
-            "link": "https://youtu.be/zrPXL96Tpw0e5dcb7f6aaae6c6ee755766c5baeb1710c825&",
+            "user": "GMDMIRROR",
+            "link": "https://www.youtube.com/shorts/VZWFxUN_rfU",
             "hz": "CBF",
             "percent": 100
         },
         {
-            "user": "grecha",   
-            "link": "",     
-            "hz": "CBF",     
+            "user": "F1erzza",
+            "link": "https://www.youtube.com/watch?v=0e9JOict7bE",
+            "hz": "CBF",
             "percent": 100
         },
         {
-            "user": "delgado_yeet_404",   
-            "link": "",     
-            "hz": "CBF",     
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/OFiefWwceHA?si=xfugsSfX77RQHDdo&t=36",
+            "hz": "CBF",
             "percent": 100
         },
         {
-            "user": "shafikdabest",   
-            "link": "",     
-            "hz": "CBF",     
+            "user": "Xed",
+            "link": "https://www.youtube.com/shorts/TMIIJk6y4C8",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "2OO3",
+            "link": "https://www.youtube.com/watch?v=RNpK8YqYtTw",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "LightningGD",
+            "link": "https://www.youtube.com/watch?v=cQDi8Me2DFs",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/zrPXL96Tpw0?si=rjRXqfwyIrGbpxpu&t=71",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "grecha",
+            "link": "https://www.youtube.com/watch?v=Y9mCAcDWqOo",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "delgado_yeet_404",
+            "link": "https://youtu.be/6gJassmhdbo?si=aIJwIOt5S7yBXu8r&t=269",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/nzmhufy-GbM?si=u0yF7zfLt2-9TZps&t=103",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Lololowka",
+            "link": "https://youtu.be/4e4UwWcVqzE?si=CBP13R3zBPkEnOTw&t=67",
+            "hz": "CBF",
             "percent": 100
         },
         {
@@ -76,20 +82,20 @@
             "percent": 100
         },
         {
-            "user": "Lololowka",
-            "link": "",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
             "user": "tFluffy",
-            "link": "https://cdn.discordapp.com/attachments/1482642581685928128/1540968026541920346/sam_rock_sky.mp4?ex=6a9dae0f&is=6a9c5c8f&hm=b2306e0de0ff6e18f783ecbdfc6ec77a9899ce3342b4569212e3f1fdc7ee8ce7&",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1540968047383285800",
             "hz": "CBF",
             "percent": 100
         },
         {
             "user": "CoffeeChips",
             "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1565481863378771978",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "evnado",
+            "link": "https://www.youtube.com/watch?v=AoS3uRxruds",
             "hz": "CBF",
             "percent": 100
         }
