@@ -12,14 +12,20 @@
         {
             "user": "JustAnUnknown",
             "link": "https://youtu.be/Ux0axeh3KyM?si=vc9bI9ic-Cd6bHH7&t=318",
-            "percent": 100,
-            "hz": "46.5"
+            "hz": "46.5",
+            "percent": 100
         },
         {
             "user": "Aut0Plays",
             "link": "https://www.youtube.com/watch?v=Dek9pmmfcKk",
-            "percent": 100,
-            "hz": "46.5"
+            "hz": "46.5",
+            "percent": 100
+        },
+        {
+            "user": "AngoPR",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1575686191171506206",
+            "hz": "46.5",
+            "percent": 100
         }
     ]
 }
