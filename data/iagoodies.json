@@ -11,19 +11,19 @@
     "records": [
         {
             "user": "G1rcy",
-            "link": "",
+            "link": "https://youtu.be/AIKIKqQEdtA?si=4gKZHYT_qXIANsOa&t=121",
             "hz": "CBF",
             "percent": 100
         },
         {
             "user": "Lololowka",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=pEIMM3EeOzM",
             "hz": "CBF",
             "percent": 100
         },
         {
             "user": "tFluffy",
-            "link": "",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1555948653984878652",
             "hz": "CBF",
             "percent": 100
         },
@@ -40,10 +40,10 @@
             "percent": 100
         },
         {
-           "user": "JustAnUnknown",   
-           "link": "https://www.youtube.com/watch?v=iG4EsNdbZlA",     
-           "hz": "CBF",     
-           "percent": 100
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/iG4EsNdbZlA?si=HWxJtWsu5oe7mKlZ&t=30",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
